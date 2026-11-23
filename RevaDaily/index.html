@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reva Daily</title>
+<link rel="stylesheet" href="assets/css/dashboard.css">
+</head>
+<body>
+<div class="sheet">
+  <header class="mast" id="mast">
+    <div class="mast-title">
+      <h1>Reva Daily</h1>
+      <p class="label">News, ideas and one thing to write about</p>
+    </div>
+    <div class="mast-cell">
+      <p class="label">Date</p>
+      <p id="mast-date" class="val">Loading</p>
+    </div>
+    <div class="mast-cell">
+      <p class="label">Top line today</p>
+      <p id="mast-top" class="val">Loading</p>
+    </div>
+    <nav class="mast-cell" aria-label="Other days">
+      <p class="label">Other days</p>
+      <p class="val"><a id="prev-day" href="#" hidden>Earlier</a> <span id="day-note"></span></p>
+    </nav>
+  </header>
+
+  <main class="grid" id="grid" aria-live="polite">
+    <p class="state" id="state">Loading today's edition.</p>
+  </main>
+
+  <footer class="foot">
+    <p class="label">Reva Daily. Built each morning. Links open the original reporting.</p>
+  </footer>
+</div>
+<script src="assets/js/config.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
