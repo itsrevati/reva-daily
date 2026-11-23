@@ -25,7 +25,7 @@
   const sources = (list) => {
     const wrap = el("div", { class: "srcs" });
     for (const s of list || []) {
-      if (safeUrl(s.url)) wrap.append(el("a", { href: s.url, text: s.name }));
+      if (safeUrl(s.url)) wrap.append(el("a", { href: s.url, text: s.name, title: new URL(s.url).hostname }));
       else wrap.append(el("span", { class: "nolink", title: "No working link found", text: s.name + " (no link)" }));
     }
     return wrap;
