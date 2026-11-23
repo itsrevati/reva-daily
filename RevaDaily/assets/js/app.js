@@ -41,7 +41,7 @@
   const roundup = (items) =>
     (items || []).map((it) => {
       const first = (it.sources || []).find((s) => safeUrl(s.url));
-      return el("article", { class: "item" }, headline(it.title, first && first.url), el("p", { text: it.summary }), sources(it.sources));
+      return el("article", { class: "item" }, headline(it.title, first && first.url), it.date ? el("p", { class: "meta", text: it.date }) : null, el("p", { text: it.summary }), sources(it.sources));
     });
 
   const readCard = (id, label, it, isSubstack) => {
