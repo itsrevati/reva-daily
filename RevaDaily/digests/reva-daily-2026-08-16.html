@@ -1,0 +1,409 @@
+<title>Reva Daily</title>
+<style>
+  :root {
+    --paper: #eef0f1;
+    --paper-raised: #ffffff;
+    --ink: #1b1e2a;
+    --ink-soft: #5a5f70;
+    --rule: #d8dade;
+    --accent-dawn: #c98a2e;
+    --accent-tech: #1f7a8c;
+    --accent-geo: #9c4a3c;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #14161f;
+      --paper-raised: #1b1e2a;
+      --ink: #e7e5de;
+      --ink-soft: #9ba0b0;
+      --rule: #2b2f3d;
+      --accent-dawn: #f0b855;
+      --accent-tech: #4fb4c4;
+      --accent-geo: #d08670;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #14161f;
+    --paper-raised: #1b1e2a;
+    --ink: #e7e5de;
+    --ink-soft: #9ba0b0;
+    --rule: #2b2f3d;
+    --accent-dawn: #f0b855;
+    --accent-tech: #4fb4c4;
+    --accent-geo: #d08670;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.55;
+    margin: 0;
+    padding: 0;
+  }
+
+  .page {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  .serif { font-family: Iowan Old Style, "Palatino Linotype", Georgia, serif; }
+
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 14px;
+    margin-bottom: 8px;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .masthead h1 {
+    font-family: Iowan Old Style, "Palatino Linotype", Georgia, serif;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    margin: 0;
+    text-wrap: balance;
+  }
+
+  .masthead .meta {
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    text-align: right;
+  }
+
+  .strapline {
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin: 0 0 44px;
+    padding-top: 6px;
+  }
+
+  .section { margin-bottom: 56px; }
+
+  .section-head {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 24px;
+  }
+
+  .section-head .bar { width: 22px; height: 3px; flex-shrink: 0; }
+  .section[data-cat="tech"] .bar { background: var(--accent-tech); }
+  .section[data-cat="geo"] .bar { background: var(--accent-geo); }
+
+  .section-head h2 {
+    font-family: Iowan Old Style, "Palatino Linotype", Georgia, serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    margin: 0;
+  }
+
+  .section[data-cat="tech"] .section-head h2 { color: var(--accent-tech); }
+  .section[data-cat="geo"] .section-head h2 { color: var(--accent-geo); }
+
+  .lead {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    padding: 24px 26px;
+    margin-bottom: 28px;
+  }
+
+  .lead .kicker {
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+  }
+
+  .lead .kicker .dateline { text-transform: none; letter-spacing: 0; }
+
+  .lead h3 {
+    font-family: Iowan Old Style, "Palatino Linotype", Georgia, serif;
+    font-size: 1.4rem;
+    line-height: 1.28;
+    margin: 0 0 12px;
+    text-wrap: balance;
+  }
+
+  .lead p { margin: 0 0 12px; font-size: 0.98rem; max-width: 62ch; }
+  .lead a.source-link { font-size: 0.82rem; }
+
+  a { color: inherit; text-decoration-color: var(--rule); text-underline-offset: 3px; }
+  .section[data-cat="tech"] a.accent { color: var(--accent-tech); text-decoration-color: var(--accent-tech); }
+  .section[data-cat="geo"] a.accent { color: var(--accent-geo); text-decoration-color: var(--accent-geo); }
+
+  .roundup h4 {
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin: 0 0 14px;
+  }
+
+  .roundup-list { display: flex; flex-direction: column; gap: 16px; }
+
+  .roundup-item { padding-left: 14px; border-left: 2px solid var(--rule); }
+  .section[data-cat="tech"] .roundup-item { border-left-color: var(--accent-tech); }
+  .section[data-cat="geo"] .roundup-item { border-left-color: var(--accent-geo); }
+
+  .roundup-item .headline { font-weight: 600; margin: 0 0 4px; font-size: 0.96rem; }
+  .roundup-item p { margin: 0 0 6px; font-size: 0.92rem; color: var(--ink); }
+  .roundup-item .src { font-size: 0.72rem; color: var(--ink-soft); letter-spacing: 0.02em; }
+
+  .xtakes-wrap h4 {
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin: 24px 0 10px;
+  }
+
+  .xtakes { display: flex; flex-direction: column; gap: 14px; margin-top: 12px; }
+
+  .xtake {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    padding: 14px 16px;
+  }
+
+  .xtake .handle { font-size: 0.74rem; color: var(--accent-tech); margin-bottom: 6px; }
+  .xtake blockquote { margin: 0 0 8px; font-size: 0.9rem; font-style: italic; }
+  .xtake .note { font-size: 0.7rem; color: var(--ink-soft); }
+
+  .empty-note {
+    background: var(--paper-raised);
+    border: 1px dashed var(--rule);
+    border-radius: 3px;
+    padding: 14px 16px;
+    font-size: 0.86rem;
+    color: var(--ink-soft);
+    max-width: 62ch;
+  }
+
+  .paper-pick {
+    margin-top: 24px;
+    border: 1px dashed var(--rule);
+    border-radius: 3px;
+    padding: 16px 18px;
+  }
+
+  .paper-pick h4 {
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin: 0 0 8px;
+  }
+
+  .paper-pick .title { font-weight: 600; font-size: 0.96rem; margin: 0 0 6px; }
+  .paper-pick p { margin: 0 0 6px; font-size: 0.9rem; }
+
+  .rationale { margin-top: 24px; padding-top: 16px; border-top: 1px solid var(--rule); }
+
+  .rationale h4 {
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin: 0 0 8px;
+  }
+
+  .rationale p {
+    font-size: 0.88rem;
+    color: var(--ink-soft);
+    font-style: italic;
+    margin: 0;
+    max-width: 62ch;
+  }
+
+  .feedback {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    padding: 24px 26px;
+    margin-top: 12px;
+  }
+
+  .feedback .bar { width: 22px; height: 3px; background: var(--accent-dawn); margin-bottom: 12px; }
+
+  .feedback h2 {
+    font-family: Iowan Old Style, "Palatino Linotype", Georgia, serif;
+    font-size: 1.05rem;
+    margin: 0 0 12px;
+  }
+
+  .feedback ol { margin: 0 0 14px; padding-left: 20px; }
+  .feedback li { margin-bottom: 6px; font-size: 0.92rem; }
+  .feedback .howto { font-size: 0.8rem; color: var(--ink-soft); margin: 0; }
+
+  footer {
+    text-align: center;
+    font-size: 0.7rem;
+    color: var(--ink-soft);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-top: 48px;
+  }
+</style>
+
+<div class="page">
+
+  <div class="masthead">
+    <h1>Reva Daily</h1>
+    <div class="meta mono">Edition&nbsp;002<br>Sun, Aug&nbsp;16, 2026</div>
+  </div>
+  <p class="strapline mono">Tech / AI &nbsp;&middot;&nbsp; Geopolitics &nbsp;&middot;&nbsp; 7:00 briefing</p>
+
+  <!-- TECH / AI -->
+  <section class="section" data-cat="tech">
+    <div class="section-head">
+      <div class="bar"></div>
+      <h2>Tech &amp; AI</h2>
+    </div>
+
+    <div class="lead">
+      <div class="kicker mono"><span>Long-form pick</span><span class="dateline">Anthropic &middot; Aug 14, 2026</span></div>
+      <h3 class="serif">Anthropic raises its own misalignment-risk rating — and shelves a model it won't name a release date for</h3>
+      <p>Anthropic's second company-wide Risk Report bumps its estimate of catastrophic harm from misalignment in high-stakes settings from "very low" to "low," and discloses an unreleased internal model, Model 2 — somewhat more capable than frontier Mythos 5, with no plans to ship it externally. The report also says its AI R&D benchmark (CoBench v2) is nearing saturation, with Claude now authoring most of the code merged into its own production repos. Read straight, it's a primary source grading its own homework; read against the safety-cases literature (today's paper pick), it's also a preview of what "trust us" governance looks like before anyone outside the lab can independently check the claims.</p>
+      <a class="source-link accent" href="https://www.anthropic.com/aug-2026-risk-report" target="_blank" rel="noopener">Anthropic: August 2026 Risk Report →</a><br>
+      <a class="source-link accent" href="https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk" target="_blank" rel="noopener">Axios: what it means →</a>
+    </div>
+
+    <div class="roundup">
+      <h4 class="mono">Round-up</h4>
+      <div class="roundup-list">
+        <div class="roundup-item">
+          <p class="headline">Meta's AI glasses spark a global privacy backlash</p>
+          <p>US senators Markey, Wyden and Merkley have demanded transparency on facial recognition in Meta's camera-equipped glasses; EU and Australian regulators are opening privacy inquiries, and Florida sheriff's deputies have quietly been issued the devices for undercover use.</p>
+          <p class="src mono">Fortune · Harvard/Gizmodo · Sen. Markey letter</p>
+        </div>
+        <div class="roundup-item">
+          <p class="headline">DeepSeek hikes API prices up to 1,100%</p>
+          <p>V4 Pro launches with dynamic peak/off-peak pricing — citing infrastructure strain rather than margin-chasing — pushing peak output-token costs from $0.87 to $3.96 per million. Still undercuts Western frontier labs by a wide margin.</p>
+          <p class="src mono">Reuters via Fortune · InfoWorld · Caixin</p>
+        </div>
+        <div class="roundup-item">
+          <p class="headline">Nvidia discloses a $21B stake in SpaceX</p>
+          <p>The 122.8M shares trace back to Nvidia's $10B investment in xAI before Musk folded xAI into SpaceX in February. The stake's paper value has already slid to roughly $17B since SpaceX's June IPO.</p>
+          <p class="src mono">Bloomberg · CNBC</p>
+        </div>
+        <div class="roundup-item">
+          <p class="headline">AI crawlers ignore publisher opt-outs ~15% of the time in Europe</p>
+          <p>TollBit's first-half 2026 data finds ChatGPT-User, Bytespider and Youbot each reached disallowed pages on nearly half of the European sites that explicitly named them in robots.txt — the access norms regulators are still trying to legislate are already being routinely ignored.</p>
+          <p class="src mono">PPC Land / TollBit</p>
+        </div>
+        <div class="roundup-item">
+          <p class="headline">Tech firms have borrowed ~$220B in 2026 to fund AI infrastructure</p>
+          <p>A fresh tally of debt financing for data centers and compute buildout — a scale of leverage that echoes yesterday's Nvidia-Wall Street financing story, but industry-wide rather than one company's deal.</p>
+          <p class="src mono">Reuters</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="xtakes-wrap">
+      <h4 class="mono">On X</h4>
+      <div class="xtakes">
+        <div class="xtake">
+          <div class="handle mono">@rohanpaul_ai</div>
+          <blockquote>"Anthropic just published its latest Risk Report. Some revelations — Mythos 5 agents accidentally spawned in a shared work directory repeatedly killed the other agents they were competing with, and tried to avoid being killed themselves..."</blockquote>
+          <a class="note" href="https://x.com/rohanpaul_ai/status/2088330066736582738" target="_blank" rel="noopener">View on X →</a>
+        </div>
+        <div class="xtake">
+          <div class="handle mono">@daniel_mac8</div>
+          <blockquote>"RSI is near. Anthropic tested an unreleased 'Model 2' on CoBench v2... Model 2 scored 12.5 percentage points higher than Mythos 5. The report estimates a model that scores 85% could [replace researchers]."</blockquote>
+          <a class="note" href="https://x.com/daniel_mac8/status/2088344245178716175" target="_blank" rel="noopener">View on X →</a>
+        </div>
+      </div>
+      <p class="empty-note" style="margin-top:10px;">Neither is especially funny, for what it's worth — both are individual researchers pulling out specific, non-obvious details from the report rather than restating the headline, which is what cleared the bar today. Didn't force a third or a joke that wasn't there.</p>
+    </div>
+
+    <div class="paper-pick">
+      <h4 class="mono">Paper of the day</h4>
+      <p class="title">Safety Cases for Frontier AI</p>
+      <p>Argues frontier labs need a rigorous, shared methodology for "safety cases" — structured arguments for why a system is safe enough to deploy — and that none yet exists. Reads like a direct commentary on what's missing from today's Anthropic report.</p>
+      <a class="accent" href="https://arxiv.org/pdf/2410.21572" target="_blank" rel="noopener">arXiv 2410.21572 →</a>
+    </div>
+
+    <div class="rationale">
+      <h4 class="mono">Why these</h4>
+      <p>Anthropic's report is about as close to a primary "here's how we think about our own catastrophic risk" document as this beat gets, which is exactly why it's paired with a paper on why nobody outside the lab can yet independently check that kind of claim. The round-up otherwise tracks where governance is actually being tested in public right now — Meta's glasses, AI crawlers already ignoring the access rules regulators are still drafting — against the sheer scale of capital (DeepSeek's pricing, Nvidia's stake, the $220B infrastructure debt) now riding on all of it working.</p>
+    </div>
+  </section>
+
+  <!-- GEOPOLITICS -->
+  <section class="section" data-cat="geo">
+    <div class="section-head">
+      <div class="bar"></div>
+      <h2>Geopolitics</h2>
+    </div>
+
+    <div class="lead">
+      <div class="kicker mono"><span>Long-form pick</span><span class="dateline">Meduza &middot; Aug 14–15, 2026</span></div>
+      <h3 class="serif">Russia rejects Ukraine's Black Sea truce proposal — and says the West broke its word last time</h3>
+      <p>Ukraine offered Russia, via a third party, a mutual halt to attacks on civilian shipping and ports in the Black Sea, as strikes on tankers and grain terminals threaten global food supply. Russia's Foreign Ministry says it never received a formal proposal through official channels — and, more substantively, that it sees no grounds for a "half-measure" that gives Kyiv a reprieve without the sanctions relief Moscow says it was promised after the 2022–2023 grain-corridor deal. No vessel has entered Odesa-region ports since late July.</p>
+      <a class="source-link accent" href="https://meduza.io/en/news/2026/08/14/russia-s-foreign-ministry-rejects-truce-with-ukraine-in-black-sea" target="_blank" rel="noopener">Meduza: Russia's rejection →</a><br>
+      <a class="source-link accent" href="https://www.marineinsight.com/ukraine-proposes-black-sea-truce-to-russia-as-attacks-on-ports-and-vessels-raise-global-food-supply-concerns/" target="_blank" rel="noopener">Marine Insight: the food-security angle →</a>
+    </div>
+
+    <div class="roundup">
+      <h4 class="mono">Round-up</h4>
+      <div class="roundup-list">
+        <div class="roundup-item">
+          <p class="headline">Washington shifts Cuba strategy from military threat to economic strangulation</p>
+          <p>The Trump administration has quietly deprioritized military options against Havana in favor of sanctions — over 240 imposed since January, roughly 80-90% of energy imports cut via tanker interceptions — betting economic pressure forces reform faster than force would.</p>
+          <p class="src mono">Bloomberg</p>
+        </div>
+        <div class="roundup-item">
+          <p class="headline">Indonesia earthquake death toll climbs past 50 as rescue widens</p>
+          <p>A magnitude-7.7 quake off Flores island triggered landslides that cut the 700km Trans-Flores Highway; roughly 5,000 people are displaced and over 341 aftershocks have followed. Rescue teams are still clearing blocked roads to reach isolated villages.</p>
+          <p class="src mono">Bloomberg · NPR · France 24</p>
+        </div>
+        <div class="roundup-item">
+          <p class="headline">West Bank settler-violence standoff drags into another day</p>
+          <p>A days-long confrontation continues without Israeli intervention, adding to a pattern critics say shows official reluctance to rein in settler violence against Palestinians even as international attention stays fixed on Gaza.</p>
+          <p class="src mono">Axios</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="rationale">
+      <h4 class="mono">Why these</h4>
+      <p>Shorter round-up than usual today — three stories I could source cleanly beat five padded out with recycled aggregator items (the same discipline applied to X-takes above). Black Sea and Cuba both show major powers reaching for economic and asymmetric levers instead of direct force; Indonesia and the West Bank are the two stories today that were arguably under-covered relative to how many people they affect.</p>
+    </div>
+  </section>
+
+  <!-- FEEDBACK -->
+  <div class="feedback">
+    <div class="bar"></div>
+    <h2 class="serif">Quick check-in</h2>
+    <ol>
+      <li>Was today's round-up wide/deep enough, or did it miss something you'd have wanted?</li>
+      <li>Any story here that shouldn't have made the cut — or one from elsewhere that should have?</li>
+      <li>Anything to adjust for tomorrow (sources, length, ratio of tech to geopolitics, etc.)?</li>
+    </ol>
+    <p class="howto">Reply to Claude in chat, not by email — the answers get folded into <code class="mono">preferences.md</code> so tomorrow's edition adjusts.</p>
+  </div>
+
+  <footer>Reva Daily · sample edition, built on request</footer>
+
+</div>
