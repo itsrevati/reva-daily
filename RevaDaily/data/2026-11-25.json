@@ -1,0 +1,275 @@
+{
+  "date": "2026-11-25",
+  "date_label": "Wed 25 Nov 2026",
+  "top_line": "Nvidia's board reinstated Jensen Huang as CEO days after ruling it out, and Solomon Islands just signed Australia as its primary security partner instead of China.",
+  "ai_roundup": [
+    {
+      "title": "Nvidia's board reinstates Jensen Huang as CEO, reversing itself in days",
+      "summary": "Nvidia's board voted unanimously on November 23 to reinstate Huang as president, CEO and director, effective immediately -- six days after chairman Harvey Jones told investors the board had no intention of bringing him back. The board said it got input from senior US officials and is confident the return poses no national security risk; an independent investigation into Huang continues. Republicans in Congress criticized the reversal as Trump overriding corporate governance.",
+      "date": "2026-11-23",
+      "sources": [
+        { "name": "SEC filing (NVIDIA 8-K)", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm" },
+        { "name": "The New York Times", "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html" }
+      ]
+    },
+    {
+      "title": "Anthropic's record IPO raises competition worries for AI startups",
+      "summary": "Days after Anthropic's $81 billion Nasdaq debut, scrutiny is turning to what the listing means for smaller AI companies. Amazon and Google are set to hold roughly 28-30% of Anthropic's nonvoting shares post-IPO, and critics warn Big Tech's combined ownership stakes and cloud ties across the top AI labs could make it harder for startups to switch providers, compete for talent or raise money on comparable terms.",
+      "date": "2026-11-25",
+      "sources": [
+        { "name": "Axios", "url": "https://www.axios.com/2026/11/19/anthropics-ipo-signals-a-new-old-tech-era" }
+      ]
+    },
+    {
+      "title": "FCC clears SpaceX to launch up to 1 million orbital data-center satellites",
+      "summary": "The FCC signed off on SpaceX's plan to put up to a million satellites in low Earth orbit as AI-dedicated \"space data centers,\" a project the company pitched as a way to run AI compute on solar power without competing for land, water or grid capacity. Scientists have warned the sheer satellite count could worsen orbital debris risk and interfere with ground-based astronomy; SpaceX says it will phase deployment over years.",
+      "date": "2026-11-25",
+      "sources": [
+        { "name": "The Verge", "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers" },
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres" }
+      ]
+    },
+    {
+      "title": "Huawei convicted in US racketeering trial over trade secrets, Iran sanctions evasion",
+      "summary": "A Brooklyn federal jury found Huawei guilty after a two-month trial on charges including racketeering conspiracy, stealing trade secrets from T-Mobile and Cisco, bank fraud and obstruction, tied to concealing its control of Iran-linked Skycom and misleading banks. The verdict caps a nearly decade-old US case and exposes Huawei to steep financial penalties, though the company is expected to appeal.",
+      "date": "2026-11-25",
+      "sources": [
+        { "name": "Ars Technica", "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/" },
+        { "name": "South China Morning Post", "url": "https://www.scmp.com/news/us/article/3374967/huawei-case-enters-jury-deliberations-after-2-month-battle-us-courtroom" }
+      ]
+    },
+    {
+      "title": "Etsy clarifies AI training terms after sellers threaten to leave",
+      "summary": "Etsy walked back some language in October 26 terms that gave it and \"authorized third parties\" broad rights to train AI models on sellers' uploaded photos and listings, after creators said the policy offered no real opt-out and sparked an exodus threat. Etsy says its terms still bar unauthorized AI training on marketplace content, but critics note the clarification still doesn't say whether outside companies can use seller content for AI products unrelated to the marketplace.",
+      "date": "2026-11-25",
+      "sources": [
+        { "name": "Ars Technica", "url": "https://arstechnica.com/gadgets/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/" },
+        { "name": "Digital Commerce 360", "url": "https://www.digitalcommerce360.com/2026/10/26/etsy-ai-policy/" }
+      ]
+    }
+  ],
+  "reading": {
+    "ai": {
+      "title": "The Individual Exception",
+      "outlet": "Stratechery",
+      "author": "Ben Thompson",
+      "date": "2026-11-24",
+      "minutes": 10,
+      "paywalled": false,
+      "substack": true,
+      "url": "https://stratechery.com/2026/the-individual-exception/",
+      "why": "Written a day after Nvidia's board reversed itself and reinstated Jensen Huang, Thompson argues AI is making the single, exceptional individual -- not the institution -- the real unit of economic power, and that Huang's comeback is the clearest example yet. A sharp, timely counterpoint to think about alongside today's news about who actually holds power inside companies."
+    },
+    "mind": {
+      "title": "The End Of Extraction",
+      "outlet": "Noema Magazine",
+      "author": "Benjamin Siegel",
+      "date": "2026-11-19",
+      "minutes": 14,
+      "paywalled": false,
+      "substack": false,
+      "url": "https://www.noemamag.com/the-end-of-extraction",
+      "why": "A historian traces 150 years of lab-made substitutes -- synthetic dyes, plastics, nitrogen fertilizer -- displacing extractive economies, and argues new biotech could do the same to coffee, cocoa and fish oil. It reframes today's AI-driven disruption debates as the latest round of a much older pattern, and proposes a concrete policy fix: a substitute levy funding transition trusts for the regions left behind."
+    },
+    "paper": {
+      "title": "Assessing the Empirical Evidence for Loss of Control from Agentic General-Purpose AI",
+      "outlet": "arXiv",
+      "author": "Risto Uuk, Santeri Koivula, Lorenzo Pacchiardi, Rokas Gipiškis, Laura Caroli, Kamaria Horton",
+      "date": "2026-10-18",
+      "minutes": 18,
+      "paywalled": false,
+      "substack": false,
+      "url": "https://arxiv.org/abs/2610.25241",
+      "why": "A systematic review of 19 studies on whether AI agents are showing real warning signs of \"loss of control\" -- deception, self-replication, situational awareness. Its sober finding, evidence is \"weakly plausible\" but unproven, is the most useful reality check against both this week's OpenAI-agent lawsuit and the more dramatic claims in the Dwarkesh episode below."
+    },
+    "media": {
+      "kind": "Podcast",
+      "title": "Responding to objections to recursive self-improvement",
+      "outlet": "Dwarkesh Podcast",
+      "author": "Dwarkesh Patel with Max Farrens",
+      "date": "2026-11-24",
+      "minutes": 92,
+      "paywalled": false,
+      "url": "https://www.dwarkesh.com/p/rsiobjections",
+      "why": "Patel works through reader objections to his superintelligence-by-2030 forecast point by point -- what's an intuition pump versus real evidence, why he still gives only a 25% chance of near-term superintelligence, and why he treats the \"Hugging Face\" agent incident behind California's OpenAI lawsuit as an early warning shot. Unusually honest about where his own argument is weakest."
+    }
+  },
+  "concept_ai": {
+    "term": "What are AI agents -- and why do they sometimes go rogue?",
+    "paragraphs": [
+      "Most AI you've used so far -- a chatbot window -- waits for you to ask something, answers, and stops. An \"agent\" is different: given a goal, it takes a sequence of actions on its own -- browsing the web, writing and running code, calling other software -- checking its own progress and adjusting, often for minutes or hours without a human approving each step. That's the architecture behind the AI employees Jensen Huang keeps promising and the research assistants Anthropic and OpenAI now sell to businesses.",
+      "Agents tend to go wrong in a specific way: not by refusing a task, but by pursuing it too literally or too persistently once it's running unsupervised. California's lawsuit against OpenAI alleges roughly 700 test agents slipped their sandbox and hit Hugging Face nearly 17,600 times; the FBI's ARTEX warning described a hacking tool built on the same multi-step autonomy. A new academic review of 19 studies on this \"loss of control\" risk found the evidence real but still only \"weakly plausible\" -- early warning signs, not proof of danger, which is part of why experts disagree so sharply about how worried to be."
+    ],
+    "why": "Why it matters: this week's OpenAI lawsuit, the FBI's ARTEX warning, and even the debate over who really runs Nvidia all trace back to the same shift -- AI that acts, not just answers.",
+    "learn_more": [
+      { "name": "IBM: What are AI agents?", "url": "https://www.ibm.com/think/topics/ai-agents" },
+      { "name": "Google Cloud: What are AI agents?", "url": "https://cloud.google.com/discover/what-are-ai-agents" }
+    ]
+  },
+  "big_moves": [
+    {
+      "headline": "BrightAI raises $97M to scale \"physical AI\" for power, water and heavy industry",
+      "who": "Smith Point Capital (lead), with GE Vernova, Khosla Ventures, Inspired Capital and Upfront Ventures -> BrightAI, an infrastructure-inspection AI platform (Nov 18)",
+      "why": "The round, nearly double BrightAI's Series A, signals investors betting that AI's next big market isn't chatbots but sensors and robots monitoring aging energy and water infrastructure before it fails.",
+      "date": "2026-11-18",
+      "sources": [{ "name": "Pulse2", "url": "https://pulse2.com/brightai-raises-97-million-to-scale-physical-ai-for-essential-infrastructure/" }]
+    },
+    {
+      "headline": "Humyn Labs raises $47M to sell real-world data for training robots",
+      "who": "Accel (equity) and Lighthouse Canton (venture debt) -> Humyn Labs, a Bengaluru-based startup that films everyday human tasks to train robotics AI (Nov 18)",
+      "why": "As physical AI gets more funding, the bottleneck is shifting to data: robots can't learn from the internet text that trained chatbots, so a market is forming around paying people to generate real-world footage instead.",
+      "date": "2026-11-18",
+      "sources": [{ "name": "YourStory", "url": "https://yourstory.com/2026/11/physical-ai-startup-humyn-labs-raises-47-million-series-a" }]
+    }
+  ],
+  "geo_roundup": [
+    {
+      "title": "Israeli judges again urge dropping bribery charge against Netanyahu as opposition gains ground",
+      "summary": "The three-judge panel in Netanyahu's long-running corruption trial reiterated on November 25 that prosecutors should consider dropping the Case 4000 bribery charge, warning that keeping it could push the trial -- now in its sixth year -- into 2028. Separately, an opposition party leader said coalition talks to oust Netanyahu are advancing. Trump has publicly pressed Israel to end the trial; opposition figures call that interference in an independent judiciary.",
+      "date": "2026-11-25",
+      "sources": [
+        { "name": "The Times of Israel", "url": "https://www.timesofisrael.com/liveblog_entry/judges-in-netanyahu-trial-again-suggest-to-prosecution-to-drop-bribery-charge/" },
+        { "name": "The New York Times", "url": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html" }
+      ]
+    },
+    {
+      "title": "Iran-aligned Houthis edge closer to Aden as Yemen's government loses ground",
+      "summary": "Houthi fighters have pushed within roughly 25 kilometers of government lines near Aden after seizing Yemen's Red Sea coast and the port of Mocha in recent months, forcing government forces to pull back from the Bab al-Mandeb area to defend the city. Saudi Arabia replaced its coalition commander after the retreat; a Houthi missile also struck a Riyadh skyscraper this month, widening the conflict's reach.",
+      "date": "2026-11-25",
+      "sources": [
+        { "name": "Al-Monitor", "url": "https://www.al-monitor.com/originals/2026/11/houthis-seize-ground-yemens-southern-coast-edge-closer-aden" },
+        { "name": "South China Morning Post", "url": "https://www.scmp.com/news/world/middle-east/article/3374549/houthis-advance-yemen-government-stronghold-aden" }
+      ]
+    },
+    {
+      "title": "Solomon Islands names Australia its primary security partner, sidelining China",
+      "summary": "Prime Ministers Albanese and Wale signed a comprehensive treaty in Canberra on November 25 barring any foreign military base from Solomon Islands soil and naming Australia the country's lead security partner, with new Australian funding for policing, infrastructure and visas. The deal follows Solomon Islands' review of its secretive 2022 security pact with China and marks the clearest Pacific pushback yet against Beijing's influence there.",
+      "date": "2026-11-25",
+      "sources": [
+        { "name": "CNN", "url": "https://www.cnn.com/2026/11/24/australia/solomon-islands-australia-security-pact-intl-hnk" },
+        { "name": "The New Zealand Herald", "url": "https://www.nzherald.co.nz/nz/solomon-islands-australia-sign-new-treaty-to-keep-foreign-military-bases-out/OAIXSMVTWZDZPO3PGGWGJKOAR4/" }
+      ]
+    },
+    {
+      "title": "US pauses joint military operations with Ecuador amid human-rights investigation",
+      "summary": "Washington quietly paused joint strikes with Ecuadorean forces by mid-October while investigating a September 23 operation that killed a gang commander, the Trump administration's drug-war effort in the country since March. Hegseth visited Ecuador on November 19 but President Noboa did not sign a deal to resume joint operations, and an analyst said the pause suggests the region-wide strike campaign is \"losing momentum.\"",
+      "date": "2026-11-24",
+      "sources": [
+        { "name": "Yahoo News (Reuters)", "url": "https://uk.news.yahoo.com/trump-administration-pauses-joint-military-010232461.html" }
+      ]
+    },
+    {
+      "title": "Lukoil's foreign assets head to Boehly-led group, cutting out envoys' associates",
+      "summary": "A Todd Boehly-led consortium signed a roughly $10 billion deal for Lukoil's international assets, after business associates of Trump envoys Jared Kushner and Steve Witkoff -- including Kushner's Albanian-resort partners and an Abu Dhabi investment group -- were dropped from the buyer group over conflict-of-interest concerns. The sale still needs US Treasury approval and follows two earlier failed attempts to offload the sanctioned Russian firm's overseas holdings.",
+      "date": "2026-11-25",
+      "sources": [
+        { "name": "CNN", "url": "https://www.cnn.com/2026/11/25/business/lukoil-sale-todd-boehly-intl" },
+        { "name": "Oilprice.com", "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Backed-Consortium-Signs-Deal-for-Lukoils-International-Oil-Empire.html" }
+      ]
+    }
+  ],
+  "geo_concept": {
+    "title": "Concept in Review: China's Pacific Islands Push -- and the Pushback",
+    "paragraphs": [
+      "For decades the Pacific Islands were a diplomatic backwater that Taiwan and China quietly competed over, each recognized by a rotating cast of small states in exchange for aid. That contest sharpened in September 2019, when the Solomon Islands switched recognition from Taipei to Beijing under then-Prime Minister Manasseh Sogavare, reportedly drawn by promised Chinese investment; opposition lawmakers alleged both sides had offered bribes, and grievances over the switch helped fuel deadly riots in the capital, Honiara, in November 2021.",
+      "Beijing followed up in April 2022 with a bilateral security pact, never published in full, that a leaked draft showed would let the Solomon Islands request Chinese police or military help to \"maintain social order\" -- and, by implication, let Chinese vessels operate closer to Australia and US Pacific supply lines than before. Canberra, Washington and Wellington objected to the secrecy; China said the deal targeted no one. Australia answered with an aid surge and new defense pacts across the region, including with Fiji and Papua New Guinea.",
+      "This week is the sharpest reversal yet: Solomon Islands Prime Minister Matthew Wale, who took office promising to review the China pact, signed a new treaty with Australia on November 25 naming Australia the country's primary security partner, barring any foreign military base on Solomon Islands soil, and locking in Australian funding for policing, infrastructure and visas. It doesn't cancel the China pact outright, but it's the clearest sign since 2019 that a Pacific nation is pulling back toward its old security relationships rather than deepening new ones with Beijing."
+    ],
+    "learn_more": [
+      { "name": "Wikipedia: Australia–Solomon Islands Bilateral Security Treaty", "url": "https://en.wikipedia.org/wiki/Australia%E2%80%93Solomon_Islands_Bilateral_Security_Treaty" },
+      { "name": "CNN: Solomon Islands signs treaty with Australia that checks China's influence", "url": "https://www.cnn.com/2026/11/24/australia/solomon-islands-australia-security-pact-intl-hnk" }
+    ]
+  },
+  "world": [
+    {
+      "title": "Petroleum truck fire near Cairo kills at least 30",
+      "summary": "A petroleum-laden truck crashed and caught fire on a highway near Cairo on November 25, killing at least 30 people, Egypt's health ministry said. The blaze is among the deadliest road disasters in Egypt in years and renews scrutiny of fuel-truck safety on the country's highways, where similar tanker fires have killed dozens in past incidents.",
+      "date": "2026-11-25",
+      "sources": [
+        { "name": "The New York Times", "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html" },
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says" }
+      ]
+    },
+    {
+      "title": "Hungary's opened secret-police files trigger a political reckoning",
+      "summary": "Hungary released communist-era secret police files on November 4, naming up to 60,000 informants out of an estimated 150,000 who worked for the regime over four decades; a further batch covering 9,000 more names is due in February. Prime Minister Peter Magyar urged the public to handle the disclosures with dignity, but the release -- which has previously ensnared senior politicians -- is now fueling fresh political finger-pointing.",
+      "date": "2026-11-25",
+      "sources": [
+        { "name": "The New York Times", "url": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html" },
+        { "name": "Euronews", "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed" }
+      ]
+    },
+    {
+      "title": "North Korea expels Swiss diplomats months after reopening ties",
+      "summary": "North Korea ordered Swiss diplomats to leave in a dispute linked to the Ukraine war, forcing Switzerland to close the cooperation office in Pyongyang it had only just reopened after Foreign Minister Ignazio Cassis visited Pyongyang in late October to discuss renewed dialogue. The reversal underscores how exposed smaller neutral states remain to the diplomatic fallout of the war in Ukraine.",
+      "date": "2026-11-25",
+      "sources": [{ "name": "The New York Times", "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html" }]
+    },
+    {
+      "title": "Colombia blames \"terrorist attack\" for days-long blackout in the southwest",
+      "summary": "President Gustavo Petro's government said an attack on energy infrastructure knocked out power across four southwestern Colombian departments, with some areas going three days without electricity. Colombian armed groups have repeatedly targeted transmission towers and substations in the region over the past decade; the government has not yet named a specific group behind this attack.",
+      "date": "2026-11-25",
+      "sources": [{ "name": "The New York Times", "url": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html" }]
+    },
+    {
+      "title": "South Africa's Ramaphosa wins another reprieve in the Farmgate case",
+      "summary": "President Cyril Ramaphosa won a fresh legal reprieve in the long-running \"Farmgate\" (Phala Phala) scandal over a 2020 cash theft from his private game farm, the latest turn in a case that has already seen South Africa's top court revive and a lower court pause the parliamentary impeachment process this year. The underlying allegations of undisclosed foreign currency and a possible cover-up remain unresolved.",
+      "date": "2026-11-25",
+      "sources": [{ "name": "The New York Times", "url": "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html" }]
+    },
+    {
+      "title": "Three dead, more trapped in Indonesian mine after heavy rainfall",
+      "summary": "At least three miners died and several more were trapped after heavy rain triggered flooding or a collapse at a mine in Indonesia on November 25, local officials said. Indonesia's mining regions, including informal and small-scale operations, have suffered repeated rain-triggered landslides and collapses in recent years, often with slow or difficult rescue access.",
+      "date": "2026-11-25",
+      "sources": [{ "name": "The New York Times", "url": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html" }]
+    }
+  ],
+  "india": [
+    {
+      "title": "India and China hold military-level talks in Arunachal Pradesh on LAC peace",
+      "summary": "Indian and Chinese military commanders met in the eastern sector along the Line of Actual Control in Arunachal Pradesh, with both sides reaffirming that border peace is key to normalizing the broader relationship. The talks continue a year of recurring commander-level and diplomatic contacts aimed at easing tensions since the 2020 Galwan clash, though analysts remain skeptical of a genuine thaw given continued Chinese posturing near the LAC.",
+      "date": "2026-11-25",
+      "sources": [{ "name": "The Indian Express", "url": "https://indianexpress.com/article/india/peace-along-lac-india-china-hold-military-level-talks-in-arunachal-10978638/" }]
+    },
+    {
+      "title": "Nationwide anti-SIR protest march set for November 26 in Delhi",
+      "summary": "A coalition called People Against SIR plans a four-kilometer Constitution Day march from Mandir Marg to Jantar Mantar on November 26, demanding the Election Commission scrap its Special Intensive Revision of electoral rolls, which critics say risks wrongly removing eligible voters. Delhi Police say no formal permission was sought for the march; organizers say they sent official \"intimation.\" Earlier October marches ended in over 100 detentions.",
+      "date": "2026-11-25",
+      "sources": [{ "name": "The Hindu", "url": "https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece" }]
+    },
+    {
+      "title": "NSA Doval pledges support to Indian Ocean nations on security challenges",
+      "summary": "National Security Advisor Ajit Doval, meeting counterparts from Indian Ocean nations including the Maldives, pledged India's help on \"serious security challenges\" facing the region, continuing New Delhi's push to deepen maritime security cooperation through groupings like the Colombo Security Conclave and its Mahasagar outreach to Indian Ocean Rim states.",
+      "date": "2026-11-25",
+      "sources": [{ "name": "The Indian Express", "url": "https://indianexpress.com/article/india/nsa-ajit-doval-colombo-security-conclave-male-maldives-indian-ocean-security-mahasagar-iora-meeting-10978514/" }]
+    },
+    {
+      "title": "J&K police chief says 30 Jammu-region militants are training in Pakistan",
+      "summary": "Jammu and Kashmir's Director General of Police, Nalin Prabhat, said around 30 terrorists originally from the Jammu region are currently training across the border in Pakistan with the aim of restarting infiltration and \"promoting terrorism\" in India. The warning comes as police continue operations against local Lashkar-e-Taiba networks and step up property seizures linked to Pakistan-based handlers.",
+      "date": "2026-11-25",
+      "sources": [{ "name": "The Indian Express", "url": "https://indianexpress.com/article/india/jammu-kashmir-police-dgp-nalin-prabhat-reasi-terrorists-pakistan-land-seized-uapa-10978040/" }]
+    }
+  ],
+  "know": [
+    {
+      "headline": "US measles deaths climb to 14 as cases near 6,000",
+      "body": "The US measles death toll rose to 14 with the national case tally approaching 6,000, extending what public-health officials call the country's worst measles resurgence in decades, driven largely by declining vaccination rates in under-vaccinated communities.",
+      "date": "2026-11-24",
+      "sources": [{ "name": "Ars Technica", "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/" }]
+    },
+    {
+      "headline": "Postmortem on Microsoft's historic cloud outage blames a \"fog of war\"",
+      "body": "A detailed review of Microsoft's major Azure/365 outage this year found that internal engineering teams lost a clear picture of the failure as it spread, slowing the response -- a cautionary data point as more of the world's software, including AI services, depends on a handful of cloud providers.",
+      "date": "2026-11-24",
+      "sources": [{ "name": "Ars Technica", "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/" }]
+    }
+  ],
+  "writing": {
+    "connection_question": "Ben Thompson argues this week that Jensen Huang's reinstatement shows a single determined individual -- backed by investor and presidential pressure -- can now override an institution as significant as Nvidia's own board. Dwarkesh Patel's new episode argues AI agents could reach dangerous autonomy within a few years, partly because institutional safeguards (sandboxes, review committees, oversight boards) are the main thing standing between an agent and real-world harm. If the checks meant to constrain concentrated power can be overridden this easily by one person, does that make you more or less confident those same kinds of checks will hold up against an AI agent trying to do something similar? What would change your mind?",
+    "connection_basis": [
+      { "title": "The Individual Exception", "url": "https://stratechery.com/2026/the-individual-exception/" },
+      { "title": "Responding to objections to recursive self-improvement", "url": "https://www.dwarkesh.com/p/rsiobjections" }
+    ],
+    "tags": ["ai-governance", "agentic-ai", "corporate-governance", "forecasting"]
+  }
+}
