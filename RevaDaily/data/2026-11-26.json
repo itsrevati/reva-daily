@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-26",
+  "date_label": "Thu 26 Nov 2026",
+  "top_line": "An Iranian drone strike killed two Italians in Kuwait as the nine-month-old US-Iran war widens across the Gulf, while a still-unverified Claude-assisted proof of the Riemann Hypothesis has mathematicians buzzing six days on.",
+  "ai_roundup": [
+    {
+      "title": "Claude-assisted \"proof\" of the Riemann Hypothesis remains unverified by mathematicians six days on",
+      "summary": "Anthropic mathematician Levent Alpoge said on November 20 that he and an unreleased Claude model had produced a proof of the Riemann Hypothesis and its generalized form, posted as a short explanation plus Lean-formalized code. Two independent Lean kernels mechanically accepted it, but six days on no mathematician has read the full argument. Experts call it potentially historic but unconfirmed.",
+      "date": "2026-11-21",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked"
+        },
+        {
+          "name": "Riemann-rev verification tracker",
+          "url": "https://nasqret.github.io/riemann-rev/"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia halts AI server shipments to four Southeast Asian countries as US tightens export rules",
+      "summary": "Nvidia told manufacturing partners to stop shipping servers with its chips to Malaysia, Singapore, Thailand and Indonesia after a new US rule requiring export licenses for advanced AI chips headed to those countries plus Brazil. Washington wants to stop Chinese firms from reaching restricted computing power via third-country data centers. The halt's duration is unclear.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html"
+        },
+        {
+          "name": "Taipei Times",
+          "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/27/2003868455"
+        }
+      ]
+    },
+    {
+      "title": "Kagi launches a privacy-focused Gmail rival",
+      "summary": "Kagi, the paid alternative search engine, launched Kagi Mail in public beta alongside a new calendar product. The web-only email client leans on keyboard shortcuts, 50GB storage and unlimited aliases, with AI features off by default, but ships without native mobile apps or a contacts book, both due in 2027. It is bundled only with Kagi's priciest plan.",
+      "date": "2026-11-25",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/"
+        }
+      ]
+    },
+    {
+      "title": "As AI job fears grow, the universal basic income debate resurfaces",
+      "summary": "With AI advances raising fears of mass unemployment, calls for universal basic income are gaining support, Al Jazeera reports, citing Sam Altman's \"universal basic compute\" idea and Elon Musk's call for a \"Universal High Income.\" Critics counter a UBI generous enough to matter would cost trillions; an OpenResearch trial backed by Altman found cash payments barely reduced recipients' work hours.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy"
+        }
+      ]
+    },
+    {
+      "title": "Jensen Huang apologizes directly to Nvidia staff, says he is in therapy",
+      "summary": "Days after Nvidia's board reinstated him as CEO, Jensen Huang personally apologized to employees and said he is in therapy, extending the fallout from his admitted affair and the board's ongoing independent investigation into whether he was a target of foreign intelligence activity. The follow-up message suggests Huang is trying to address internal morale even as the national-security review continues.",
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
+        }
+      ]
+    }
+  ],
+  "reading": {
+    "ai": {
+      "title": "Claude and Levent Alpoge Prove the Riemann Hypothesis",
+      "outlet": "Don't Worry About the Vase",
+      "author": "Zvi Mowshowitz",
+      "date": "2026-11-25",
+      "minutes": 15,
+      "paywalled": false,
+      "substack": true,
+      "url": "https://thezvi.substack.com/p/claude-and-levent-alpoge-prove-the",
+      "why": "Zvi's close read of the week's biggest AI story treats the still-unverified proof as a genuine milestone while flagging real caveats: the proof is admittedly messy, credit-sharing between Alpoge and Claude is contested, and markets are underreacting. His core argument, that AI capability is \"jagged\" and math isn't walled off from the rest of the world, is the most useful frame for today's roundup item on the same story."
+    },
+    "mind": {
+      "title": "A Generation Revolts",
+      "outlet": "Noema Magazine",
+      "author": "John Last",
+      "date": "2026-11-12",
+      "minutes": 13,
+      "paywalled": false,
+      "substack": false,
+      "url": "https://www.noemamag.com/a-generation-revolts",
+      "why": "A structural look at the generational-protest wave convulsing Italy and France, going well past any single news cycle to ask why young Europeans keep taking to the streets. Published two weeks ago, it is the sharpest explainer available for why Al Jazeera is asking \"Why is France roiling?\" again today."
+    },
+    "paper": {
+      "title": "Trust But Verify: Implementing Frontier AI Policy in California and Beyond",
+      "outlet": "Carnegie Endowment for International Peace",
+      "author": "Scott R. Singer and colleagues",
+      "date": "2026-11-10",
+      "minutes": 25,
+      "paywalled": false,
+      "substack": false,
+      "url": "https://carnegieendowment.org/research/2026/11/trust-but-verify-implementing-frontier-ai-policy-in-california-and-beyond",
+      "why": "A non-technical walkthrough of how California's SB 53 frontier-AI transparency law is actually being implemented a year in, and which of its design choices other states are now copying. Skim the framing section and chapter intros rather than the full report; it is the clearest guide to where US AI regulation is actually headed, not just what was proposed."
+    },
+    "media": {
+      "kind": "Podcast",
+      "title": "Too Big to Fail: How Jensen Huang Became Untouchable",
+      "outlet": "The Long Game with Jake Sullivan and Jon Finer",
+      "author": "Jake Sullivan and Jon Finer",
+      "date": "2026-11-23",
+      "minutes": 17,
+      "paywalled": false,
+      "url": "https://podcasts.apple.com/us/podcast/too-big-to-fail-how-jensen-huang-became-untouchable/id1850526014?i=1000803646087",
+      "why": "Two former senior national security officials dig into why Trump effectively overrode Nvidia's own board to bring Huang back, and what it says about how entangled the US government now is with a single chip company's fate. A sharp companion to today's roundup item on Huang's follow-up apology to staff."
+    }
+  },
+  "concept_ai": {
+    "term": "What is fine-tuning?",
+    "paragraphs": [
+      "Most frontier AI models start as one huge, general-purpose system trained on a broad slice of the internet. Fine-tuning is the second stage: taking that already-trained model and training it further, usually on a much smaller, carefully chosen dataset, to make it better at a specific task, style or domain, such as a customer-service tone, a coding style, or, as this week's news shows, advanced mathematics. It is cheaper than training from scratch because the model keeps most of what it already knows.",
+      "There are two broad flavors. \"Full\" fine-tuning adjusts the model's entire internal settings and can reach the highest quality, but costs real compute. \"Parameter-efficient\" methods freeze almost everything and only train a small added set of parameters, trading some quality for speed and cost. Either way, fine-tuning changes the model itself, unlike simply writing a cleverer prompt, which leaves the underlying model untouched."
+    ],
+    "why": "Why it matters: the Claude model behind this week's disputed Riemann Hypothesis result was described as an unreleased research version, almost certainly fine-tuned for mathematics. Understanding fine-tuning is the first step to understanding how labs build specialized tools out of general models, and why those tools aren't available to the rest of us yet.",
+    "learn_more": [
+      {
+        "name": "IBM: What is fine-tuning?",
+        "url": "https://www.ibm.com/think/topics/fine-tuning"
+      },
+      {
+        "name": "Google Cloud: Fine-tuning LLMs and AI models",
+        "url": "https://cloud.google.com/use-cases/fine-tuning-ai-models"
+      }
+    ]
+  },
+  "big_moves": [
+    {
+      "headline": "Every raises $17.5M to teach professionals how to work with AI",
+      "who": "IA Ventures (lead), with Betaworks and Atlantic CEO Nicholas Thompson -> Every, a 35-person AI-education and consulting media company (Nov 25)",
+      "why": "The round signals investor appetite for the unglamorous side of the AI boom: helping workers and employers actually use the tools, as similar workforce-retraining efforts also draw big money.",
+      "date": "2026-11-25",
+      "sources": [
+        {
+          "name": "TheNextWeb",
+          "url": "https://thenextweb.com/news/every-17-5m-series-a-ai-native-media"
+        }
+      ]
+    },
+    {
+      "headline": "LangChain raises $300M at a $3B valuation, more than doubling in a year",
+      "who": "CapitalG (Alphabet's growth fund, lead), with Salesforce Ventures, MongoDB Ventures, GIC, DFJ Growth, IVP and Sapphire Ventures -> LangChain, maker of the LangSmith agent-tooling platform (Nov 13)",
+      "why": "Investors are paying heavily for the infrastructure that manages AI agents after they're built, not just for the underlying models; LangSmith is now used by over 7,000 organizations.",
+      "date": "2026-11-13",
+      "sources": [
+        {
+          "name": "TheNextWeb",
+          "url": "https://thenextweb.com/news/langchain-300m-series-c-3bn-valuation-capitalg-langsmith"
+        }
+      ]
+    },
+    {
+      "headline": "Norwest Venture Partners closes its largest-ever fund at $4B, now centered on AI",
+      "who": "Norwest Venture Partners -> itself, a new $4B fund, Norwest 18 (Nov 12)",
+      "why": "A firm that long spread bets across healthcare, fintech and enterprise software is now making AI its central focus and can write $100M+ checks from Series A through pre-IPO, a sign generalist growth capital is consolidating around AI.",
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "TechBuzz AI",
+          "url": "https://techbuzz.ai/articles/norwest-raises-4b-fund-biggest-yet-for-ai-push"
+        }
+      ]
+    }
+  ],
+  "geo_roundup": [
+    {
+      "title": "Iranian drone debris kills two Italian technicians in Kuwait, deepening Gulf escalation",
+      "summary": "Two Italian technicians working for Rheinmetall Italia died from falling debris after Kuwait's air defenses intercepted incoming Iranian drones at a surveillance site its Defence Ministry called a \"vital site.\" A Kuwaiti and a Pakistani worker were wounded. Iran denied involvement; Italy's Meloni offered condolences, and the GCC called it a dangerous escalation.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine strikes near Libya, Italy accuses Kyiv of violating Libyan sovereignty",
+      "summary": "Ukrainian forces operating from bases in Libya struck a Russian-linked vessel near Benghazi, prompting Libya's Tripoli government to call it \"a declaration of war\" and vow retaliation. Italy's foreign minister Antonio Tajani protested that Ukraine acted without warning, citing Italy's energy ties to Libya, as a coalition partner pushes back on further aid to Kyiv.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "UK sanctions Houthi leaders over Riyadh missile strike and Red Sea attacks",
+      "summary": "Britain froze assets and imposed travel bans on Yemen's Houthi movement and four senior leaders after a Houthi missile hit Riyadh's financial district and attacks continued in the Bab al-Mandeb strait. Analysts called the move largely symbolic since the leaders hold few UK assets; rights groups warned it could still raise food prices in Houthi-controlled areas of Yemen.",
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Brazilians lured by fake job offers, pushed into fighting for Russia",
+      "summary": "A New York Times investigation found Brazilians recruited with false civilian job offers were instead enlisted into Russia's military and sent to fight in Ukraine, with some saying recruiters also drained their bank accounts. Brazil's foreign ministry has confirmed dozens of deaths among its nationals fighting in the war, exposing a new front in how Russia sustains troop numbers.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html"
+        }
+      ]
+    },
+    {
+      "title": "Japan-China freeze persists after Takaichi's icy reception at APEC",
+      "summary": "A week after Japanese PM Takaichi received only a wordless handshake from Xi Jinping at the APEC summit in Shenzhen and was seated far from him, new reporting examines whether it was a deliberate snub over her remarks that a Taiwan crisis could threaten Japan's survival. Tokyo disputes the snub framing; Beijing still wants the remarks retracted.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375103/japanese-pm-takaichi-tries-break-ice-xi-thanking-him-hosting-apec-summit"
+        }
+      ]
+    }
+  ],
+  "geo_concept": {
+    "title": "Concept in Review: The US-Iran War, Nine Months On",
+    "paragraphs": [
+      "On February 28, 2026, the US and Israel struck Iranian nuclear and military targets, two days after Oman-mediated nuclear talks in Geneva collapsed. It followed the shorter June 2025 \"12-day war,\" in which the US bombed three Iranian nuclear sites. This time the campaign went further: strikes killed Supreme Leader Ali Khamenei, and Trump framed the goal as ending Iran's nuclear program and missile arsenal outright, not just curbing enrichment.",
+      "The war quickly became a fight over the Strait of Hormuz, through which a fifth of the world's oil passes. The US imposed a naval blockade on Iran's southern ports in mid-April; a June interim deal lifted it, but the truce collapsed by July after Iran struck tankers transiting the strait. Iran has since retaliated by hitting US-allied Gulf states directly, including Bahrain, Jordan, and now Kuwait, where a drone Kuwaiti defenses intercepted killed two Italian technicians at an air-defense site on November 26.",
+      "Nine months in, the war is also a fight in Washington: federal funding expires December 11, the Pentagon's tab is near $50 billion, and precision-munition stocks are thinning. Some Democrats say they won't back any funding bill that doesn't bar further offensive operations in Iran, while Republicans warn a shutdown would be worse. Polling has found a majority of Americans want Congress to end the war, but Trump can veto any such bill, and only a two-thirds majority could override him."
+    ],
+    "learn_more": [
+      {
+        "name": "CFR: Confrontation Between the United States and Iran",
+        "url": "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and---iran"
+      },
+      {
+        "name": "Al Jazeera: US, Israel bomb Iran -- a timeline",
+        "url": "https://www.aljazeera.com/news/2026/2/28/us-israel-bomb-iran-a-timeline-of-talks-and-threats-leading-up-to-attacks"
+      }
+    ]
+  },
+  "world": [
+    {
+      "title": "Spain's Hernandez de Cos named next ECB president",
+      "summary": "EU leaders agreed to make Pablo Hernandez de Cos, head of the Bank for International Settlements and former Bank of Spain governor, the first Spaniard to lead the European Central Bank, succeeding Christine Lagarde in February 2027. Diplomats called him a pragmatic \"steady hand\" who steered Spain through the 2010s banking crisis and COVID-19.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong marks a year since the Wang Fuk Court fire that killed 168",
+      "summary": "Thursday marked the first anniversary of the Tai Po high-rise fire, the world's deadliest residential building fire since 1980, which burned for 43 hours and displaced nearly 5,000 people. Catholic parishes held memorial Masses as survivors, many still in temporary housing, mourn under what reporting describes as close official monitoring of commemorations in Hong Kong.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html"
+        },
+        {
+          "name": "South China Morning Post",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3374508/hundreds-attend-mass-tai-po-fire-victims-bishop-dismisses-talk-pressure"
+        }
+      ]
+    },
+    {
+      "title": "UK net migration falls to its lowest level since 1997",
+      "summary": "New UK migration data shows net migration has fallen to its lowest level since 1997 excluding the pandemic year, continuing a sharp decline driven by tighter work- and study-visa rules. Net migration peaked at a record high in 2023 and has since dropped by roughly two-thirds amid a sustained government crackdown on legal migration routes.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html"
+        }
+      ]
+    },
+    {
+      "title": "FIFA discloses cyberattack, says personal and business data stolen",
+      "summary": "Football's governing body FIFA disclosed a cyberattack in which hackers accessed personal and business information, without specifying how many people were affected or which systems were breached. The disclosure adds FIFA to a growing list of major sports and cultural organizations hit by data breaches this year.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jordan hands down another death sentence, debates tougher terrorism law",
+      "summary": "Jordan's State Security Court sentenced a man to death for stabbing a police officer near Amman's Sri Lankan embassy, days after three others got death sentences for an October attack on a Christian funeral in Karak that killed nine. Parliament is debating amendments raising minimum terrorism sentences, which a deputy speaker warns could chill free expression.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Andalusia's right-wing coalition previews Spain's Sunday election",
+      "summary": "Once a Socialist stronghold, Andalusia has been run by a conservative-far right coalition since May, a dynamic polls suggest could repeat nationally in Sunday's snap election. Vox, polling third, could become kingmaker; its platform includes reversing migrant regularization and repealing a gender-violence law, while PP leader Feijoo has not ruled out a similar coalition.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss"
+        }
+      ]
+    }
+  ],
+  "india": [
+    {
+      "title": "Special Parliament session called amid delimitation and women's-quota push",
+      "summary": "A special Parliament session is set for next week amid buzz over delimitation and the long-pending women's reservation bill. Home Minister Amit Shah said Congress cannot stop the 33% women's quota from taking effect, as the government signals momentum on both fronts ahead of the winter session.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/parliament-session-2026-lok-sabha-rajya-sabha-reconvene-10979976/"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/women-will-get-33-reservation-congress-cannot-stop-it-amit-shah/article71747349.ece"
+        }
+      ]
+    },
+    {
+      "title": "Bihar rolls out AI-powered ambulances and hospital-bed tracking",
+      "summary": "Bihar's health department unveiled a push to use AI for emergency response, including smart ambulances and live hospital-bed tracking, as part of a broader effort to modernize public healthcare. The state's health minister framed it as a model for diagnostics and emergency coordination that other states could adopt.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/bihar-ai-smart-ambulances-live-hospital-bed-tracking-health-minister-nishant-kumar-10979512/"
+        }
+      ]
+    },
+    {
+      "title": "Excavation near Sheshnag lake on the Amarnath route sparks political alarm",
+      "summary": "Politicians including Mehbooba Mufti and Karan Singh objected to excavation work near Jammu and Kashmir's Sheshnag lake, a sacred stop on the Amarnath pilgrimage route, warning of ecological and religious sensitivities. The row adds to friction over infrastructure development in the ecologically fragile Himalayan region.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/mehbooba-mufti-karan-singh-oppose-excavation-sheshnag-lake-amarnath-route-omar-abdullah-10980141/"
+        }
+      ]
+    },
+    {
+      "title": "Centre clears 17 foreign universities to open India campuses",
+      "summary": "India's government approved 17 foreign universities to set up campuses in the country, continuing a policy push to let international institutions operate domestically and curb the outflow of students studying abroad. Officials framed it as part of a broader higher-education overhaul under the National Education Policy.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/foreign-universities-india-ugc-campus-centre-pralhad-joshi-10979217/"
+        }
+      ]
+    }
+  ],
+  "know": [
+    {
+      "headline": "Study quantifies how much draining peatlands has warmed the planet",
+      "body": "A new analysis finds that draining peatlands for agriculture and development is responsible for a few percent of global warming since 1800, a sizable but often overlooked contribution that adds to the case for rewetting and protecting remaining peat bogs.",
+      "date": "2026-11-26",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/"
+        }
+      ]
+    }
+  ],
+  "writing": {
+    "connection_question": "Zvi Mowshowitz argues that this week's disputed Claude-assisted proof of the Riemann Hypothesis shows AI capability is \"jagged\": a model can do historic work in one narrow domain (pure math) while remaining unreliable elsewhere. Today's piece on the resurfacing UBI debate assumes AI-driven job losses will be broad and fairly even across the economy, which is why a universal cash floor is proposed as the fix. If AI progress really is jagged rather than broad, does that make you more or less worried about near-term mass unemployment, and would a different policy response (retraining, targeted support, something else) make more sense than a universal payment? What would change your mind either way?",
+    "connection_basis": [
+      {
+        "title": "Claude and Levent Alpoge Prove the Riemann Hypothesis",
+        "url": "https://thezvi.substack.com/p/claude-and-levent-alpoge-prove-the"
+      },
+      {
+        "title": "Is UBI the solution to mass unemployment in an AI economy?",
+        "url": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy"
+      }
+    ],
+    "tags": [
+      "artificial-intelligence",
+      "ai-economics",
+      "universal-basic-income",
+      "forecasting"
+    ]
+  }
+}
