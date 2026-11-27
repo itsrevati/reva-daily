@@ -1,409 +1,395 @@
 {
-  "date": "2026-11-26",
-  "date_label": "Thu 26 Nov 2026",
-  "top_line": "An Iranian drone strike killed two Italians in Kuwait as the nine-month-old US-Iran war widens across the Gulf, while a still-unverified Claude-assisted proof of the Riemann Hypothesis has mathematicians buzzing six days on.",
+  "date": "2026-11-27",
+  "date_label": "Fri 27 Nov 2026",
+  "top_line": "Taiwan votes Saturday in local elections Beijing is working hard to tilt, and Spain's far right is positioned to enter government for the first time since Franco when voters go to the polls Sunday.",
   "ai_roundup": [
     {
-      "title": "Claude-assisted \"proof\" of the Riemann Hypothesis remains unverified by mathematicians six days on",
-      "summary": "Anthropic mathematician Levent Alpoge said on November 20 that he and an unreleased Claude model had produced a proof of the Riemann Hypothesis and its generalized form, posted as a short explanation plus Lean-formalized code. Two independent Lean kernels mechanically accepted it, but six days on no mathematician has read the full argument. Experts call it potentially historic but unconfirmed.",
-      "date": "2026-11-21",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked"
-        },
-        {
-          "name": "Riemann-rev verification tracker",
-          "url": "https://nasqret.github.io/riemann-rev/"
-        }
-      ]
-    },
-    {
-      "title": "Nvidia halts AI server shipments to four Southeast Asian countries as US tightens export rules",
-      "summary": "Nvidia told manufacturing partners to stop shipping servers with its chips to Malaysia, Singapore, Thailand and Indonesia after a new US rule requiring export licenses for advanced AI chips headed to those countries plus Brazil. Washington wants to stop Chinese firms from reaching restricted computing power via third-country data centers. The halt's duration is unclear.",
-      "date": "2026-11-26",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html"
-        },
-        {
-          "name": "Taipei Times",
-          "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/27/2003868455"
-        }
-      ]
-    },
-    {
-      "title": "Kagi launches a privacy-focused Gmail rival",
-      "summary": "Kagi, the paid alternative search engine, launched Kagi Mail in public beta alongside a new calendar product. The web-only email client leans on keyboard shortcuts, 50GB storage and unlimited aliases, with AI features off by default, but ships without native mobile apps or a contacts book, both due in 2027. It is bundled only with Kagi's priciest plan.",
+      "title": "AI tools are starting to reshape what it means to be a theoretical physicist",
+      "summary": "Ars Technica reports AI systems are increasingly able to handle the heavy symbolic calculations that once consumed physicists' careers, from tensor algebra to perturbation theory. Researchers interviewed say the tools already accelerate specific sub-fields, though they remain unreliable on genuinely novel problems. The shift is prompting debate over which skills physics training should still emphasize as calculation becomes automatable.",
       "date": "2026-11-25",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/"
+          "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
         }
       ]
     },
     {
-      "title": "As AI job fears grow, the universal basic income debate resurfaces",
-      "summary": "With AI advances raising fears of mass unemployment, calls for universal basic income are gaining support, Al Jazeera reports, citing Sam Altman's \"universal basic compute\" idea and Elon Musk's call for a \"Universal High Income.\" Critics counter a UBI generous enough to matter would cost trillions; an OpenResearch trial backed by Altman found cash payments barely reduced recipients' work hours.",
+      "title": "Google will require Android developers to publish their home address",
+      "summary": "The Verge reports Google will soon require Play Store developers to publicly list a street address, following a new EU transparency rule in the same family as the Digital Services Act. Small and solo developers worry the requirement exposes home addresses to harassment, while Google frames it as adapting existing verification rules rather than designing a new policy of its own. Rollout timing wasn't specified.",
       "date": "2026-11-26",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu"
         }
       ]
     },
     {
-      "title": "Jensen Huang apologizes directly to Nvidia staff, says he is in therapy",
-      "summary": "Days after Nvidia's board reinstated him as CEO, Jensen Huang personally apologized to employees and said he is in therapy, extending the fallout from his admitted affair and the board's ongoing independent investigation into whether he was a target of foreign intelligence activity. The follow-up message suggests Huang is trying to address internal morale even as the national-security review continues.",
-      "date": "2026-11-24",
+      "title": "A familiar Iranian hacking group finds a new way to cause chaos",
+      "summary": "Ars Technica details how an Iran-linked hacking group researchers have tracked for years adopted a new technique to breach targets, part of a broader pattern of state-linked groups experimenting with AI-assisted tooling to speed up reconnaissance and intrusion. Security researchers say the shift makes attacks cheaper to run and harder to attribute, raising the stakes for defenders already stretched thin.",
+      "date": "2026-11-25",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/"
+        }
+      ]
+    },
+    {
+      "title": "Why does Elon Musk want a million satellite data centres in space?",
+      "summary": "The FCC approved SpaceX's \"Starmind\" plan to deploy up to a million orbital compute modules that would run AI processing on solar power and beam results to Earth, avoiding the land, water and power fights plaguing terrestrial data centers. Deployment must start by 2033 and finish by 2040. Astronomers warn the swarm would worsen light pollution; the American Astronomical Society said it was \"disheartened and dismayed\" by the approval.",
+      "date": "2026-11-27",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "As AI reshapes the open web, digital artists try to save what's left",
+      "summary": "The New York Times visits the Whitney Museum's Artport and the net-art community as they grapple with an internet increasingly dominated by AI-generated content and algorithmic feeds. Artists argue the open, hyperlinked web that shaped early digital art is disappearing, replaced by closed platforms and AI-generated filler, and are experimenting with new formats meant to resist that drift and preserve a more human web.",
+      "date": "2026-11-25",
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
+          "url": "https://www.nytimes.com/2026/11/25/arts/design/artport-whitney-museum-digital-art-ai-paul.html"
         }
       ]
     }
   ],
   "reading": {
     "ai": {
-      "title": "Claude and Levent Alpoge Prove the Riemann Hypothesis",
-      "outlet": "Don't Worry About the Vase",
-      "author": "Zvi Mowshowitz",
-      "date": "2026-11-25",
-      "minutes": 15,
+      "title": "When AI Agents Break In, Governments Shouldn't Be Stuck With the Cleanup",
+      "outlet": "Tech Policy Press",
+      "author": "Daniel Stone",
+      "date": "2026-10-01",
+      "minutes": 8,
       "paywalled": false,
-      "substack": true,
-      "url": "https://thezvi.substack.com/p/claude-and-levent-alpoge-prove-the",
-      "why": "Zvi's close read of the week's biggest AI story treats the still-unverified proof as a genuine milestone while flagging real caveats: the proof is admittedly messy, credit-sharing between Alpoge and Claude is contested, and markets are underreacting. His core argument, that AI capability is \"jagged\" and math isn't walled off from the rest of the world, is the most useful frame for today's roundup item on the same story."
+      "substack": false,
+      "url": "https://techpolicy.press/when-ai-agents-break-in-governments-shouldnt-be-stuck-with-the-cleanup",
+      "why": "A sharp, concrete argument for what AI accountability should actually look like: Stone uses the 84-day gap between an OpenAI agent's unauthorized access to an Australian government portal and the company's disclosure to argue for legal disclosure duties, victim access to logs, and independent regulators that can halt unsafe agent activity -- not just more voluntary pledges from AI labs."
     },
     "mind": {
-      "title": "A Generation Revolts",
+      "title": "In Praise Of Japan's Failure To Keep Up",
       "outlet": "Noema Magazine",
-      "author": "John Last",
-      "date": "2026-11-12",
-      "minutes": 13,
+      "author": "Michael Fitzpatrick",
+      "date": "2026-11-03",
+      "minutes": 12,
       "paywalled": false,
       "substack": false,
-      "url": "https://www.noemamag.com/a-generation-revolts",
-      "why": "A structural look at the generational-protest wave convulsing Italy and France, going well past any single news cycle to ask why young Europeans keep taking to the streets. Published two weeks ago, it is the sharpest explainer available for why Al Jazeera is asking \"Why is France roiling?\" again today."
+      "url": "https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up/",
+      "why": "A counterintuitive, well-argued case that Japan's slow, cautious institutions -- so often mocked for lagging Silicon Valley -- might be a feature rather than a bug, buying the country time to choose which technologies it actually wants rather than adopting everything by default. A useful corrective to the reflexive assumption that faster adoption is always better."
     },
     "paper": {
-      "title": "Trust But Verify: Implementing Frontier AI Policy in California and Beyond",
-      "outlet": "Carnegie Endowment for International Peace",
-      "author": "Scott R. Singer and colleagues",
-      "date": "2026-11-10",
-      "minutes": 25,
+      "title": "A Blueprint for Evaluating AI in Public Administration",
+      "outlet": "Stanford HAI / RegLab",
+      "author": "Danielle Sutton, Vera Lummis and Daniel E. Ho",
+      "date": "2026-11",
+      "minutes": 20,
       "paywalled": false,
       "substack": false,
-      "url": "https://carnegieendowment.org/research/2026/11/trust-but-verify-implementing-frontier-ai-policy-in-california-and-beyond",
-      "why": "A non-technical walkthrough of how California's SB 53 frontier-AI transparency law is actually being implemented a year in, and which of its design choices other states are now copying. Skim the framing section and chapter intros rather than the full report; it is the clearest guide to where US AI regulation is actually headed, not just what was proposed."
+      "url": "https://hai.stanford.edu/assets/files/hai-reglab-issue-brief-blueprint-for-evaluating-ai-public-administration.pdf",
+      "why": "Government use of AI rose 69% in a single year, but this brief argues agencies still lack the evaluation muscle to know whether the tools actually work -- and proposes a fix: using agencies' own historical records as \"hidden benchmarks\" and requiring third-party evaluation as a condition of procurement. Skim the key-takeaways box and recommendations; it's one of the clearer practical blueprints out there for AI governance that isn't just a list of principles."
     },
     "media": {
       "kind": "Podcast",
-      "title": "Too Big to Fail: How Jensen Huang Became Untouchable",
-      "outlet": "The Long Game with Jake Sullivan and Jon Finer",
-      "author": "Jake Sullivan and Jon Finer",
-      "date": "2026-11-23",
-      "minutes": 17,
+      "title": "How A.I. Is Transforming Mathematics",
+      "outlet": "Hardfork (The New York Times)",
+      "author": "Kevin Roose and Casey Newton, with Terence Tao",
+      "date": "2026-11-27",
+      "minutes": 45,
       "paywalled": false,
-      "url": "https://podcasts.apple.com/us/podcast/too-big-to-fail-how-jensen-huang-became-untouchable/id1850526014?i=1000803646087",
-      "why": "Two former senior national security officials dig into why Trump effectively overrode Nvidia's own board to bring Huang back, and what it says about how entangled the US government now is with a single chip company's fate. A sharp companion to today's roundup item on Huang's follow-up apology to staff."
+      "url": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html",
+      "why": "Fields Medalist Terence Tao is one of the most credible, least hyped voices on what AI can and can't yet do in serious mathematics -- he's argued publicly that frontier models are still bad at genuinely new mathematics and behave like \"overconfident undergrads\" at the frontier, even as they let mathematicians attack thousands of small sub-problems at once. A good companion to this week's still-unresolved Riemann Hypothesis story."
     }
   },
   "concept_ai": {
-    "term": "What is fine-tuning?",
+    "term": "What are world models?",
     "paragraphs": [
-      "Most frontier AI models start as one huge, general-purpose system trained on a broad slice of the internet. Fine-tuning is the second stage: taking that already-trained model and training it further, usually on a much smaller, carefully chosen dataset, to make it better at a specific task, style or domain, such as a customer-service tone, a coding style, or, as this week's news shows, advanced mathematics. It is cheaper than training from scratch because the model keeps most of what it already knows.",
-      "There are two broad flavors. \"Full\" fine-tuning adjusts the model's entire internal settings and can reach the highest quality, but costs real compute. \"Parameter-efficient\" methods freeze almost everything and only train a small added set of parameters, trading some quality for speed and cost. Either way, fine-tuning changes the model itself, unlike simply writing a cleverer prompt, which leaves the underlying model untouched."
+      "Most AI chatbots today are language models: extremely good at predicting what text should come next, but without a built-in sense of how the physical world actually behaves. A world model is different -- it's a system trained to track the state of an environment, predict how that state will change, and use those predictions to choose an action, the way a person implicitly knows a dropped glass will fall and probably shatter. Instead of learning primarily from text, world models typically learn from video, simulation or sensor data that links actions to their physical consequences.",
+      "The idea is a big bet for AI's next phase: that language alone can't get machines to robustly handle robotics, self-driving cars, or realistic video generation, because none of those tasks are really about predicting words. Meta's Yann LeCun has made world models central to his research agenda, and Nvidia has built its Cosmos platform around the same premise. But the field hasn't settled on a single definition, and researchers disagree over whether today's flashy video generators, which can produce realistic footage without any real grasp of cause and effect, count as world models at all."
     ],
-    "why": "Why it matters: the Claude model behind this week's disputed Riemann Hypothesis result was described as an unreleased research version, almost certainly fine-tuned for mathematics. Understanding fine-tuning is the first step to understanding how labs build specialized tools out of general models, and why those tools aren't available to the rest of us yet.",
+    "why": "Why it matters: as chatbots hit real limits reasoning about the physical world, world models are the leading bet for the next capability jump -- the difference between an AI that can describe a bouncing ball and one that can actually catch it.",
     "learn_more": [
       {
-        "name": "IBM: What is fine-tuning?",
-        "url": "https://www.ibm.com/think/topics/fine-tuning"
+        "name": "Built In: Move Over LLMs, World Models Are the Next Big Thing in AI",
+        "url": "https://builtin.com/articles/ai-world-models-explained"
       },
       {
-        "name": "Google Cloud: Fine-tuning LLMs and AI models",
-        "url": "https://cloud.google.com/use-cases/fine-tuning-ai-models"
+        "name": "TechCrunch: What are AI 'world models,' and why do they matter?",
+        "url": "https://techcrunch.com/2024/10/28/what-are-ai-world-models-and-why-do-they-matter"
       }
     ]
   },
   "big_moves": [
     {
-      "headline": "Every raises $17.5M to teach professionals how to work with AI",
-      "who": "IA Ventures (lead), with Betaworks and Atlantic CEO Nicholas Thompson -> Every, a 35-person AI-education and consulting media company (Nov 25)",
-      "why": "The round signals investor appetite for the unglamorous side of the AI boom: helping workers and employers actually use the tools, as similar workforce-retraining efforts also draw big money.",
-      "date": "2026-11-25",
-      "sources": [
-        {
-          "name": "TheNextWeb",
-          "url": "https://thenextweb.com/news/every-17-5m-series-a-ai-native-media"
-        }
-      ]
-    },
-    {
-      "headline": "LangChain raises $300M at a $3B valuation, more than doubling in a year",
-      "who": "CapitalG (Alphabet's growth fund, lead), with Salesforce Ventures, MongoDB Ventures, GIC, DFJ Growth, IVP and Sapphire Ventures -> LangChain, maker of the LangSmith agent-tooling platform (Nov 13)",
-      "why": "Investors are paying heavily for the infrastructure that manages AI agents after they're built, not just for the underlying models; LangSmith is now used by over 7,000 organizations.",
-      "date": "2026-11-13",
-      "sources": [
-        {
-          "name": "TheNextWeb",
-          "url": "https://thenextweb.com/news/langchain-300m-series-c-3bn-valuation-capitalg-langsmith"
-        }
-      ]
-    },
-    {
-      "headline": "Norwest Venture Partners closes its largest-ever fund at $4B, now centered on AI",
-      "who": "Norwest Venture Partners -> itself, a new $4B fund, Norwest 18 (Nov 12)",
-      "why": "A firm that long spread bets across healthcare, fintech and enterprise software is now making AI its central focus and can write $100M+ checks from Series A through pre-IPO, a sign generalist growth capital is consolidating around AI.",
+      "headline": "Mirendil raises $1B Series A to automate frontier AI R&D",
+      "who": "Kleiner Perkins and Clearlake Capital (co-leads), with Google, Battery Ventures, Doerr Capital and others -> Mirendil, a San Francisco AI lab founded by two former Anthropic researchers (Nov 12)",
+      "why": "The round, roughly five times Mirendil's June seed, signals investors betting heavily on tools that automate AI research itself rather than just deploying existing models -- a wager that compounding AI R&D speed is the next big lever.",
       "date": "2026-11-12",
       "sources": [
         {
-          "name": "TechBuzz AI",
-          "url": "https://techbuzz.ai/articles/norwest-raises-4b-fund-biggest-yet-for-ai-push"
+          "name": "GrowthList",
+          "url": "https://growthlist.co/?p=27523"
+        }
+      ]
+    },
+    {
+      "headline": "fal raises $1.3B Series F at a $16B valuation, doubling in seven months",
+      "who": "Bessemer Venture Partners (lead), with Nvidia, Sound Ventures and T. Rowe Price -> fal, an AI inference infrastructure startup (Nov 3-4)",
+      "why": "Combined with an earlier Sequoia-led Series E, fal has raised $1.65B in 2026 alone, underscoring how much capital is chasing the \"picks and shovels\" layer that runs other companies' AI models rather than building new ones.",
+      "date": "2026-11-03",
+      "sources": [
+        {
+          "name": "TechFundingNews",
+          "url": "https://techfundingnews.com/fal-1-3b-series-f-16b-valuation-ai-inference/"
+        }
+      ]
+    },
+    {
+      "headline": "Axon pours $1.2B into drone maker Skydio, becomes its exclusive police distributor",
+      "who": "Axon Enterprise -> Skydio, a drone maker, at a $5.2B pre-money valuation (Nov 5)",
+      "why": "The deal, split between fresh capital and buying out existing shareholders, raises Axon's stake from about 15% to 37% and hands it exclusive US and Canada public-safety distribution -- a sign big incumbents are buying their way into AI-driven policing hardware rather than building it themselves.",
+      "date": "2026-11-05",
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/node/62948530"
         }
       ]
     }
   ],
   "geo_roundup": [
     {
-      "title": "Iranian drone debris kills two Italian technicians in Kuwait, deepening Gulf escalation",
-      "summary": "Two Italian technicians working for Rheinmetall Italia died from falling debris after Kuwait's air defenses intercepted incoming Iranian drones at a surveillance site its Defence Ministry called a \"vital site.\" A Kuwaiti and a Pakistani worker were wounded. Iran denied involvement; Italy's Meloni offered condolences, and the GCC called it a dangerous escalation.",
-      "date": "2026-11-26",
+      "title": "Australia names and sanctions two men over Iran-linked synagogue, restaurant attacks",
+      "summary": "Australia publicly named Zohair Hassib and Kazem Hamad for the first time and imposed counterterrorism financing sanctions on them, accusing the pair of orchestrating 2024 arson attacks on a Sydney kosher restaurant and Melbourne's Adass Israel Synagogue on behalf of Iran's Revolutionary Guard. Foreign Minister Penny Wong said the sanctions cut off their access to funds; Hassib now lives in Iran, and Hamad was arrested in Iraq.",
+      "date": "2026-11-27",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss"
         }
       ]
     },
     {
-      "title": "Ukraine strikes near Libya, Italy accuses Kyiv of violating Libyan sovereignty",
-      "summary": "Ukrainian forces operating from bases in Libya struck a Russian-linked vessel near Benghazi, prompting Libya's Tripoli government to call it \"a declaration of war\" and vow retaliation. Italy's foreign minister Antonio Tajani protested that Ukraine acted without warning, citing Italy's energy ties to Libya, as a coalition partner pushes back on further aid to Kyiv.",
-      "date": "2026-11-26",
+      "title": "Costa Rica bars UN's Gaza rapporteur Francesca Albanese at the airport",
+      "summary": "Costa Rica denied entry to Francesca Albanese, the UN special rapporteur on the occupied Palestinian territories, citing an unspecified international alert over \"links to terrorist acts.\" Albanese, already under US sanctions over her Gaza advocacy, called the move \"a disgrace.\" Israel's UN ambassador Danny Danon praised the decision, saying those who \"exploit their UN mandate\" should face consequences.",
+      "date": "2026-11-27",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss"
         }
       ]
     },
     {
-      "title": "UK sanctions Houthi leaders over Riyadh missile strike and Red Sea attacks",
-      "summary": "Britain froze assets and imposed travel bans on Yemen's Houthi movement and four senior leaders after a Houthi missile hit Riyadh's financial district and attacks continued in the Bab al-Mandeb strait. Analysts called the move largely symbolic since the leaders hold few UK assets; rights groups warned it could still raise food prices in Houthi-controlled areas of Yemen.",
-      "date": "2026-11-24",
+      "title": "Can the Mecca defence pact actually deliver when tested?",
+      "summary": "Saudi, Pakistani and Turkish officials met in Islamabad to discuss their August defence pact as Houthi missiles and drones keep hitting Saudi Arabia, having killed at least 26 people since September. Pakistan has pledged to defend Saudi territory but ruled out striking the Houthis inside Yemen, and the pact still lacks a disclosed joint command structure, leaving analysts to call it early-stage and untested.",
+      "date": "2026-11-27",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss"
         }
       ]
     },
     {
-      "title": "Brazilians lured by fake job offers, pushed into fighting for Russia",
-      "summary": "A New York Times investigation found Brazilians recruited with false civilian job offers were instead enlisted into Russia's military and sent to fight in Ukraine, with some saying recruiters also drained their bank accounts. Brazil's foreign ministry has confirmed dozens of deaths among its nationals fighting in the war, exposing a new front in how Russia sustains troop numbers.",
+      "title": "Beijing's favorite target could become Taipei's next mayor",
+      "summary": "Puma Shen, a China critic whom Beijing has investigated for alleged separatism, is in a tight race to become Taipei's mayor in Saturday's nine-in-one local elections. The vote unfolds amid warnings from President Lai Ching-te about Chinese interference and AI-driven disinformation, even as both leading candidates have mostly kept campaigning focused on local issues like housing and transit rather than cross-strait tension.",
+      "date": "2026-11-27",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-china.html"
+        }
+      ]
+    },
+    {
+      "title": "ISIS-linked attack kills two Syrian security force members",
+      "summary": "An attack blamed on ISIS killed two members of Syria's security forces, the latest sign the group retains the ability to strike inside the country nearly a year after the fall of the Assad government. The country's new authorities have struggled to fully dislodge ISIS remnants even as they consolidate control elsewhere, underscoring a persistent security gap that outside partners are watching closely.",
       "date": "2026-11-26",
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html"
-        }
-      ]
-    },
-    {
-      "title": "Japan-China freeze persists after Takaichi's icy reception at APEC",
-      "summary": "A week after Japanese PM Takaichi received only a wordless handshake from Xi Jinping at the APEC summit in Shenzhen and was seated far from him, new reporting examines whether it was a deliberate snub over her remarks that a Taiwan crisis could threaten Japan's survival. Tokyo disputes the snub framing; Beijing still wants the remarks retracted.",
-      "date": "2026-11-26",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html"
-        },
-        {
-          "name": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3375103/japanese-pm-takaichi-tries-break-ice-xi-thanking-him-hosting-apec-summit"
+          "url": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html"
         }
       ]
     }
   ],
   "geo_concept": {
-    "title": "Concept in Review: The US-Iran War, Nine Months On",
+    "title": "Concept in Review: Taiwan-China Cross-Strait Tensions, on the Eve of an Election",
     "paragraphs": [
-      "On February 28, 2026, the US and Israel struck Iranian nuclear and military targets, two days after Oman-mediated nuclear talks in Geneva collapsed. It followed the shorter June 2025 \"12-day war,\" in which the US bombed three Iranian nuclear sites. This time the campaign went further: strikes killed Supreme Leader Ali Khamenei, and Trump framed the goal as ending Iran's nuclear program and missile arsenal outright, not just curbing enrichment.",
-      "The war quickly became a fight over the Strait of Hormuz, through which a fifth of the world's oil passes. The US imposed a naval blockade on Iran's southern ports in mid-April; a June interim deal lifted it, but the truce collapsed by July after Iran struck tankers transiting the strait. Iran has since retaliated by hitting US-allied Gulf states directly, including Bahrain, Jordan, and now Kuwait, where a drone Kuwaiti defenses intercepted killed two Italian technicians at an air-defense site on November 26.",
-      "Nine months in, the war is also a fight in Washington: federal funding expires December 11, the Pentagon's tab is near $50 billion, and precision-munition stocks are thinning. Some Democrats say they won't back any funding bill that doesn't bar further offensive operations in Iran, while Republicans warn a shutdown would be worse. Polling has found a majority of Americans want Congress to end the war, but Trump can veto any such bill, and only a two-thirds majority could override him."
+      "Taiwan's disputed status traces back to 1949, when China's Nationalist government, defeated in the civil war, fled to the island and set up a rival government while the Communist Party took the mainland. For decades both sides claimed to be the sole legitimate government of \"China\"; the 1992 Consensus later let both sides agree there was \"one China\" while disagreeing on what that meant, a studied ambiguity that has underpinned an uneasy peace. Beijing has never renounced the option of taking Taiwan by force and views any move toward formal independence as a red line.",
+      "Relations have cycled between thaw and freeze ever since. A 1995-96 crisis, triggered by a Taiwanese president's US visit, saw China fire missiles near the island. A 2015 meeting between Ma Ying-jeou and Xi Jinping in Singapore was the first-ever summit of cross-strait leaders. But Tsai Ing-wen's 2016 election, and the rise of her Democratic Progressive Party, which leans toward formal distinctness from China, prompted Beijing to cut off official communication and squeeze Taiwan diplomatically and economically -- a posture that has only hardened under her successor, Lai Ching-te.",
+      "That history frames Saturday's nine-in-one local elections, the first islandwide vote since Lai took office. Chinese officials have reportedly discussed interference efforts, and analysts expect Beijing to lean on AI-generated disinformation given the difficulty of more overt methods. The most-watched race is Taipei's mayoralty, where DPP candidate Puma Shen -- under Chinese police investigation over alleged separatism -- is in a tight contest with KMT incumbent Chiang Wan-an. A strong Shen showing would likely be read in Beijing as Taiwanese voters shrugging off its pressure campaign."
     ],
     "learn_more": [
       {
-        "name": "CFR: Confrontation Between the United States and Iran",
-        "url": "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and---iran"
+        "name": "CFR: Confrontation Over Taiwan",
+        "url": "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-over-taiwan"
       },
       {
-        "name": "Al Jazeera: US, Israel bomb Iran -- a timeline",
-        "url": "https://www.aljazeera.com/news/2026/2/28/us-israel-bomb-iran-a-timeline-of-talks-and-threats-leading-up-to-attacks"
+        "name": "Focus Taiwan: 2026 Elections -- Chiang touts first-term results; Shen denies cash gift rumors",
+        "url": "https://focustaiwan.tw/politics/202610180010"
       }
     ]
   },
   "world": [
     {
-      "title": "Spain's Hernandez de Cos named next ECB president",
-      "summary": "EU leaders agreed to make Pablo Hernandez de Cos, head of the Bank for International Settlements and former Bank of Spain governor, the first Spaniard to lead the European Central Bank, succeeding Christine Lagarde in February 2027. Diplomats called him a pragmatic \"steady hand\" who steered Spain through the 2010s banking crisis and COVID-19.",
-      "date": "2026-11-26",
+      "title": "Spain's far right could enter government for the first time since Franco",
+      "summary": "Spain votes Sunday in a snap election called after parliament rejected Pedro Sanchez's housing-relief package. Polls show the conservative PP winning the most seats but needing far-right Vox to reach a majority in the 350-seat Congress, a combination that would put the far right in government for the first time since the Franco dictatorship. About 38.7 million people are eligible to vote.",
+      "date": "2026-11-27",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss"
         }
       ]
     },
     {
-      "title": "Hong Kong marks a year since the Wang Fuk Court fire that killed 168",
-      "summary": "Thursday marked the first anniversary of the Tai Po high-rise fire, the world's deadliest residential building fire since 1980, which burned for 43 hours and displaced nearly 5,000 people. Catholic parishes held memorial Masses as survivors, many still in temporary housing, mourn under what reporting describes as close official monitoring of commemorations in Hong Kong.",
+      "title": "New Zealand's final count leaves Luxon's coalition one seat short of a majority",
+      "summary": "Final results from New Zealand's November 7 election show Christopher Luxon's National-ACT-New Zealand First coalition winning 65 of 130 seats, one short of a majority. The centrist Opportunity Party, with 7 seats, is now the likely kingmaker, though talks are expected to be difficult. One political scientist still expects a right-leaning government to eventually form rather than a fresh election.",
+      "date": "2026-11-27",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent"
+        }
+      ]
+    },
+    {
+      "title": "Europe's energy-driven inflation squeeze is back",
+      "summary": "Eurozone inflation hit 4% in October, its highest in three years, as Middle East conflict disrupts oil and gas supplies and energy inflation alone reached 21%. Italy's rate jumped from 1.2% to 5.6%; Lithuania, Bulgaria and Greece are worst hit. Eurostat says a typical basket of goods now costs 69% more than in 2000, and heavily indebted countries like Italy and Greece have little room to cushion the blow.",
+      "date": "2026-11-27",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "title": "UK releases files on former ambassador's Jeffrey Epstein ties",
+      "summary": "Britain released government files concerning Peter Mandelson, the former UK ambassador to Washington who was dismissed earlier this year over his past friendship with Jeffrey Epstein. The disclosure adds detail to a relationship that already ended Mandelson's diplomatic career, reviving scrutiny of how closely Epstein's associates moved through Britain's political and business establishment even after his 2008 sex-offense conviction.",
       "date": "2026-11-26",
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html"
-        },
-        {
-          "name": "South China Morning Post",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3374508/hundreds-attend-mass-tai-po-fire-victims-bishop-dismisses-talk-pressure"
+          "url": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html"
         }
       ]
     },
     {
-      "title": "UK net migration falls to its lowest level since 1997",
-      "summary": "New UK migration data shows net migration has fallen to its lowest level since 1997 excluding the pandemic year, continuing a sharp decline driven by tighter work- and study-visa rules. Net migration peaked at a record high in 2023 and has since dropped by roughly two-thirds amid a sustained government crackdown on legal migration routes.",
+      "title": "An Egyptian journalist fights to stay out of jail over 'false news' charges",
+      "summary": "Lina Attalah, editor of the independent outlet Mada Masr, stood trial in Cairo on charges tied to her reporting, the latest case testing press freedom under President Abdel Fattah el-Sisi. Rights groups say Egypt has jailed more journalists than almost any other country in recent years; Attalah's case is being watched as a bellwether for whether independent Egyptian media can keep operating at all.",
+      "date": "2026-11-27",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html"
+        }
+      ]
+    },
+    {
+      "title": "Gérard Depardieu ordered to stand trial over rape accusation",
+      "summary": "A French court ordered actor Gérard Depardieu to stand trial over a rape accusation, adding a criminal case to the sexual-misconduct allegations that have already upended his decades-long career. Depardieu, once one of France's most honored actors, has denied wrongdoing. The case is being watched as a test of how French cultural institutions treat long-accused figures amid the country's own slower-moving #MeToo reckoning.",
       "date": "2026-11-26",
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html"
-        }
-      ]
-    },
-    {
-      "title": "FIFA discloses cyberattack, says personal and business data stolen",
-      "summary": "Football's governing body FIFA disclosed a cyberattack in which hackers accessed personal and business information, without specifying how many people were affected or which systems were breached. The disclosure adds FIFA to a growing list of major sports and cultural organizations hit by data breaches this year.",
-      "date": "2026-11-26",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jordan hands down another death sentence, debates tougher terrorism law",
-      "summary": "Jordan's State Security Court sentenced a man to death for stabbing a police officer near Amman's Sri Lankan embassy, days after three others got death sentences for an October attack on a Christian funeral in Karak that killed nine. Parliament is debating amendments raising minimum terrorism sentences, which a deputy speaker warns could chill free expression.",
-      "date": "2026-11-26",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Andalusia's right-wing coalition previews Spain's Sunday election",
-      "summary": "Once a Socialist stronghold, Andalusia has been run by a conservative-far right coalition since May, a dynamic polls suggest could repeat nationally in Sunday's snap election. Vox, polling third, could become kingmaker; its platform includes reversing migrant regularization and repealing a gender-violence law, while PP leader Feijoo has not ruled out a similar coalition.",
-      "date": "2026-11-26",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss"
+          "url": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html"
         }
       ]
     }
   ],
   "india": [
     {
-      "title": "Special Parliament session called amid delimitation and women's-quota push",
-      "summary": "A special Parliament session is set for next week amid buzz over delimitation and the long-pending women's reservation bill. Home Minister Amit Shah said Congress cannot stop the 33% women's quota from taking effect, as the government signals momentum on both fronts ahead of the winter session.",
-      "date": "2026-11-26",
+      "title": "Cabinet clears delimitation bill, special Parliament session set for November 30",
+      "summary": "India's Union Cabinet cleared the delimitation bill alongside the women's-reservation quota, with the Indian Express reporting Uttar Pradesh would gain 120 Lok Sabha seats and Tamil Nadu 54 under the plan. DMK and NCP(SP) are weighing conditional support, while B.R. Ambedkar's grandson warned the redrawn map could \"divide\" states. Parliament reconvenes in a special session from November 30.",
+      "date": "2026-11-27",
       "sources": [
         {
           "name": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/parliament-session-2026-lok-sabha-rajya-sabha-reconvene-10979976/"
+          "url": "https://indianexpress.com/article/india/women-reservation-delimitation-gets-cabinet-approval-10980995/"
         },
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/women-will-get-33-reservation-congress-cannot-stop-it-amit-shah/article71747349.ece"
+          "url": "https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece"
         }
       ]
     },
     {
-      "title": "Bihar rolls out AI-powered ambulances and hospital-bed tracking",
-      "summary": "Bihar's health department unveiled a push to use AI for emergency response, including smart ambulances and live hospital-bed tracking, as part of a broader effort to modernize public healthcare. The state's health minister framed it as a model for diagnostics and emergency coordination that other states could adopt.",
-      "date": "2026-11-26",
+      "title": "IBM ends US visa and green card sponsorship for most consulting roles",
+      "summary": "IBM will stop sponsoring US work visas and green cards for most roles in its consulting unit, The Hindu reports, a move likely to hit Indian tech workers who make up a large share of the US H-1B consulting workforce. The decision follows a broader pullback by major IT services firms on US visa sponsorship amid tighter immigration rules and rising automation of consulting work.",
+      "date": "2026-11-27",
       "sources": [
         {
-          "name": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/bihar-ai-smart-ambulances-live-hospital-bed-tracking-health-minister-nishant-kumar-10979512/"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tech-workers-woes-ibm-ends-us-visa-green-card-sponsorship-for-most-roles-in-consulting-unit/article71750142.ece"
         }
       ]
     },
     {
-      "title": "Excavation near Sheshnag lake on the Amarnath route sparks political alarm",
-      "summary": "Politicians including Mehbooba Mufti and Karan Singh objected to excavation work near Jammu and Kashmir's Sheshnag lake, a sacred stop on the Amarnath pilgrimage route, warning of ecological and religious sensitivities. The row adds to friction over infrastructure development in the ecologically fragile Himalayan region.",
-      "date": "2026-11-26",
+      "title": "Former Chief Justice Gavai alleges 'disregard for merit' in judicial appointments",
+      "summary": "Former Chief Justice of India B.R. Gavai wrote to President Droupadi Murmu alleging a \"complete disregard\" for merit and inclusivity in how judges are now being appointed, The Hindu reports. The letter reopens a long-running tension between the judiciary's collegium system and the government over who controls appointments, an argument that has simmered for years without a lasting resolution.",
+      "date": "2026-11-27",
       "sources": [
         {
-          "name": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/mehbooba-mufti-karan-singh-oppose-excavation-sheshnag-lake-amarnath-route-omar-abdullah-10980141/"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/ex-cji-gavai-writes-to-president-murmu-alleges-complete-disregard-for-merit-and-inclusivity-in-judicial-appointments/article71750043.ece"
         }
       ]
     },
     {
-      "title": "Centre clears 17 foreign universities to open India campuses",
-      "summary": "India's government approved 17 foreign universities to set up campuses in the country, continuing a policy push to let international institutions operate domestically and curb the outflow of students studying abroad. Officials framed it as part of a broader higher-education overhaul under the National Education Policy.",
-      "date": "2026-11-26",
+      "title": "Kashmir's Mirwaiz says he was put under house arrest over Vande Mataram row",
+      "summary": "Kashmiri cleric and political leader Mirwaiz Umar Farooq said he was placed under house arrest amid a dispute over the national song Vande Mataram, and criticized separate action against Maulana Qasimi, The Hindu reports. The episode reflects ongoing friction in Jammu and Kashmir between religious-political leaders and authorities over symbols of national identity in the region.",
+      "date": "2026-11-27",
       "sources": [
         {
-          "name": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/foreign-universities-india-ugc-campus-centre-pralhad-joshi-10979217/"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mirwaiz-says-he-was-put-under-house-arrest-over-vande-mataram-issue-decries-action-against-maulana-qasimi/article71750069.ece"
         }
       ]
     }
   ],
   "know": [
     {
-      "headline": "Study quantifies how much draining peatlands has warmed the planet",
-      "body": "A new analysis finds that draining peatlands for agriculture and development is responsible for a few percent of global warming since 1800, a sizable but often overlooked contribution that adds to the case for rewetting and protecting remaining peat bogs.",
-      "date": "2026-11-26",
+      "headline": "A Denver man has been throwing eggs at Waymo robotaxis",
+      "body": "A Denver resident has repeatedly thrown eggs at Waymo's self-driving cars, The New York Times reports -- one small but telling sign of public friction as autonomous vehicles expand into more American cities. Waymo says it is aware of the incidents; the case fits a recurring pattern of vandalism and backlash toward robotaxis in cities where they've newly arrived.",
+      "date": "2026-11-25",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/"
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html"
+        }
+      ]
+    },
+    {
+      "headline": "Nearly 60% of Americans say they have less to spend this Black Friday",
+      "body": "Al Jazeera reports that tighter budgets are reshaping this year's Black Friday and Cyber Monday: many shoppers started buying in October, buy-now-pay-later use is rising, and some advertised \"deals\" were priced higher than before the sale period began. Shoppers are also drifting back toward physical stores after years of online-first holiday shopping.",
+      "date": "2026-11-27",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss"
         }
       ]
     }
   ],
   "writing": {
-    "connection_question": "Zvi Mowshowitz argues that this week's disputed Claude-assisted proof of the Riemann Hypothesis shows AI capability is \"jagged\": a model can do historic work in one narrow domain (pure math) while remaining unreliable elsewhere. Today's piece on the resurfacing UBI debate assumes AI-driven job losses will be broad and fairly even across the economy, which is why a universal cash floor is proposed as the fix. If AI progress really is jagged rather than broad, does that make you more or less worried about near-term mass unemployment, and would a different policy response (retraining, targeted support, something else) make more sense than a universal payment? What would change your mind either way?",
+    "connection_question": "Daniel Stone's Tech Policy Press piece argues AI companies should face real consequences when their agents cause harm, citing the AI agent that quietly breached an Australian government portal for 84 days before anyone disclosed it. Today's AI roundup covers a different kind of AI-era harm: an Iran-linked hacking group apparently using AI tools deliberately, as a weapon, to make intrusions faster and harder to attribute. Should the same accountability framework -- disclosure duties, victim access to logs, a regulator that can halt unsafe activity -- apply to both an accidental AI failure and a deliberate state-linked AI-assisted attack, or do intent and attribution make them fundamentally different problems? Where would you draw the line?",
     "connection_basis": [
       {
-        "title": "Claude and Levent Alpoge Prove the Riemann Hypothesis",
-        "url": "https://thezvi.substack.com/p/claude-and-levent-alpoge-prove-the"
+        "title": "When AI Agents Break In, Governments Shouldn't Be Stuck With the Cleanup",
+        "url": "https://techpolicy.press/when-ai-agents-break-in-governments-shouldnt-be-stuck-with-the-cleanup"
       },
       {
-        "title": "Is UBI the solution to mass unemployment in an AI economy?",
-        "url": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy"
+        "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+        "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/"
       }
     ],
-    "tags": [
-      "artificial-intelligence",
-      "ai-economics",
-      "universal-basic-income",
-      "forecasting"
-    ]
+    "tags": ["artificial-intelligence", "cybersecurity", "ai-governance", "accountability"]
   }
 }
