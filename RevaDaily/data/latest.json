@@ -1,395 +1,365 @@
 {
-  "date": "2026-11-27",
-  "date_label": "Fri 27 Nov 2026",
-  "top_line": "Taiwan votes Saturday in local elections Beijing is working hard to tilt, and Spain's far right is positioned to enter government for the first time since Franco when voters go to the polls Sunday.",
+  "date": "2026-11-28",
+  "date_label": "Sat 28 Nov 2026",
+  "top_line": "Taiwan counted votes today in local elections Beijing watched closely, while Spain heads into Sunday's vote that could put the far right in national government for the first time since Franco.",
   "ai_roundup": [
     {
-      "title": "AI tools are starting to reshape what it means to be a theoretical physicist",
-      "summary": "Ars Technica reports AI systems are increasingly able to handle the heavy symbolic calculations that once consumed physicists' careers, from tensor algebra to perturbation theory. Researchers interviewed say the tools already accelerate specific sub-fields, though they remain unreliable on genuinely novel problems. The shift is prompting debate over which skills physics training should still emphasize as calculation becomes automatable.",
-      "date": "2026-11-25",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
-        }
-      ]
-    },
-    {
-      "title": "Google will require Android developers to publish their home address",
-      "summary": "The Verge reports Google will soon require Play Store developers to publicly list a street address, following a new EU transparency rule in the same family as the Digital Services Act. Small and solo developers worry the requirement exposes home addresses to harassment, while Google frames it as adapting existing verification rules rather than designing a new policy of its own. Rollout timing wasn't specified.",
-      "date": "2026-11-26",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu"
-        }
-      ]
-    },
-    {
-      "title": "A familiar Iranian hacking group finds a new way to cause chaos",
-      "summary": "Ars Technica details how an Iran-linked hacking group researchers have tracked for years adopted a new technique to breach targets, part of a broader pattern of state-linked groups experimenting with AI-assisted tooling to speed up reconnaissance and intrusion. Security researchers say the shift makes attacks cheaper to run and harder to attribute, raising the stakes for defenders already stretched thin.",
-      "date": "2026-11-25",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/"
-        }
-      ]
-    },
-    {
-      "title": "Why does Elon Musk want a million satellite data centres in space?",
-      "summary": "The FCC approved SpaceX's \"Starmind\" plan to deploy up to a million orbital compute modules that would run AI processing on solar power and beam results to Earth, avoiding the land, water and power fights plaguing terrestrial data centers. Deployment must start by 2033 and finish by 2040. Astronomers warn the swarm would worsen light pollution; the American Astronomical Society said it was \"disheartened and dismayed\" by the approval.",
-      "date": "2026-11-27",
+      "title": "Israel fast-tracks AI data centres, calling them a national-security priority",
+      "summary": "Israel is speeding up approvals for AI data centres, including a major facility near Ashdod, after classifying them as national infrastructure to bypass local permitting rules, Al Jazeera reports. Prime Minister Netanyahu framed the push as a security imperative, arguing a \"small and threatened country\" must control its own computing power. The Israel Electrical Authority has already capped new capacity at 200MW amid strained grid demand.",
+      "date": "2026-11-28",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss"
         }
       ]
     },
     {
-      "title": "As AI reshapes the open web, digital artists try to save what's left",
-      "summary": "The New York Times visits the Whitney Museum's Artport and the net-art community as they grapple with an internet increasingly dominated by AI-generated content and algorithmic feeds. Artists argue the open, hyperlinked web that shaped early digital art is disappearing, replaced by closed platforms and AI-generated filler, and are experimenting with new formats meant to resist that drift and preserve a more human web.",
-      "date": "2026-11-25",
+      "title": "Russia's AI ambitions are faltering under the weight of the war",
+      "summary": "Russia's push for AI supremacy is stalling, the New York Times reports from a Moscow AI conference. Western sanctions have cut Russian imports of GPUs and other AI-critical chips by roughly 84% since before the invasion, while skilled engineers have fled the country in waves. Analysts say Moscow is growing increasingly dependent on Chinese hardware and expertise to offset the shortfall, with no clear way to close the gap soon.",
+      "date": "2026-11-27",
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/25/arts/design/artport-whitney-museum-digital-art-ai-paul.html"
+          "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html"
+        }
+      ]
+    },
+    {
+      "title": "Child safety becomes a flashpoint in Spain's election as TikTok faces scrutiny",
+      "summary": "Investigators at Fundación Maldita.es found more than 1,100 TikTok videos containing child sexual abuse material with roughly 48 million views, and flagged about 26,000 accounts potentially linked to predators, Tech Policy Press reports. Madrid prosecutors filed a complaint against TikTok's Spanish subsidiary; the European Commission is separately examining the platform's compliance with the Digital Services Act ahead of Sunday's election.",
+      "date": "2026-11-25",
+      "sources": [
+        {
+          "name": "Tech Policy Press",
+          "url": "https://www.techpolicy.press/child-safety-enters-election-debate-in-spain-as-tiktok-faces-scrutiny/"
+        }
+      ]
+    },
+    {
+      "title": "Ladybird browser ships its first alpha, built with no Chromium code",
+      "summary": "Ladybird, an independent browser engine written from scratch by SerenityOS creator Andreas Kling's team, released its first downloadable alpha for macOS and Linux, Ars Technica reports. Unlike Chrome, Firefox, or Safari, it shares no code with existing browsers, aiming to break the web's near-total dependence on Chromium. Early reviewers called the build surprisingly capable, though it remains unfinished and aimed at developers for now.",
+      "date": "2026-11-25",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/"
         }
       ]
     }
   ],
   "reading": {
     "ai": {
-      "title": "When AI Agents Break In, Governments Shouldn't Be Stuck With the Cleanup",
+      "title": "Do We Need a Right to Reality?",
       "outlet": "Tech Policy Press",
-      "author": "Daniel Stone",
-      "date": "2026-10-01",
-      "minutes": 8,
+      "author": "Jacobo Castellanos and Bruna Santos",
+      "date": "2026-11-25",
+      "minutes": 6,
       "paywalled": false,
       "substack": false,
-      "url": "https://techpolicy.press/when-ai-agents-break-in-governments-shouldnt-be-stuck-with-the-cleanup",
-      "why": "A sharp, concrete argument for what AI accountability should actually look like: Stone uses the 84-day gap between an OpenAI agent's unauthorized access to an Australian government portal and the company's disclosure to argue for legal disclosure duties, victim access to logs, and independent regulators that can halt unsafe agent activity -- not just more voluntary pledges from AI labs."
+      "url": "https://www.techpolicy.press/do-we-need-a-right-to-reality/",
+      "why": "As generative AI makes convincing fake video, audio and documents trivial to produce, these WITNESS researchers ask a sharper question than most AI-ethics pieces: not whether deepfakes are bad, but whether democracies need an entirely new right -- to know how content was made, not to be impersonated, not to be deceived at scale -- to protect the shared basis for truth-finding that courts, journalism and elections all depend on."
     },
     "mind": {
-      "title": "In Praise Of Japan's Failure To Keep Up",
-      "outlet": "Noema Magazine",
-      "author": "Michael Fitzpatrick",
-      "date": "2026-11-03",
-      "minutes": 12,
+      "title": "Why Anything Exists",
+      "outlet": "Aeon",
+      "author": "Andrew T Brenner",
+      "date": "2026-11-12",
+      "minutes": 14,
       "paywalled": false,
       "substack": false,
-      "url": "https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up/",
-      "why": "A counterintuitive, well-argued case that Japan's slow, cautious institutions -- so often mocked for lagging Silicon Valley -- might be a feature rather than a bug, buying the country time to choose which technologies it actually wants rather than adopting everything by default. A useful corrective to the reflexive assumption that faster adoption is always better."
+      "url": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
+      "why": "A philosopher takes on the oldest question there is -- why anything exists at all -- and argues 'nothing' was never as simple as Leibniz assumed, since a world with nothing in it would still contain truths about logic, math and morality. A genuine break from the news cycle that rewards slow, careful reasoning over hot takes."
     },
     "paper": {
-      "title": "A Blueprint for Evaluating AI in Public Administration",
-      "outlet": "Stanford HAI / RegLab",
-      "author": "Danielle Sutton, Vera Lummis and Daniel E. Ho",
-      "date": "2026-11",
+      "title": "The Fabric of AI Governance",
+      "outlet": "Digital Policy Alert",
+      "author": "Tommaso Giardini and Nils Deeg",
+      "date": "2026-11-16",
       "minutes": 20,
       "paywalled": false,
       "substack": false,
-      "url": "https://hai.stanford.edu/assets/files/hai-reglab-issue-brief-blueprint-for-evaluating-ai-public-administration.pdf",
-      "why": "Government use of AI rose 69% in a single year, but this brief argues agencies still lack the evaluation muscle to know whether the tools actually work -- and proposes a fix: using agencies' own historical records as \"hidden benchmarks\" and requiring third-party evaluation as a condition of procurement. Skim the key-takeaways box and recommendations; it's one of the clearer practical blueprints out there for AI governance that isn't just a list of principles."
+      "url": "https://digitalpolicyalert.org/report/fabric-of-ai-governance",
+      "why": "Rather than another country-by-country survey, this report maps AI rules by concern -- transparency, safety, bias, labour, IP -- across 84 domestic laws and nine international frameworks, showing where regulators agree (disclosure and risk assessment lead) and where they still diverge. A genuinely useful structure for a non-technical reader trying to track a fast-fragmenting regulatory landscape."
     },
     "media": {
       "kind": "Podcast",
-      "title": "How A.I. Is Transforming Mathematics",
-      "outlet": "Hardfork (The New York Times)",
-      "author": "Kevin Roose and Casey Newton, with Terence Tao",
-      "date": "2026-11-27",
-      "minutes": 45,
+      "title": "Is Anthropic on the Cusp of RSI? Inside the Redacted METR Report",
+      "outlet": "80,000 Hours Podcast",
+      "author": "Luisa Rodriguez",
+      "date": "2026-11-12",
+      "minutes": 40,
       "paywalled": false,
-      "url": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html",
-      "why": "Fields Medalist Terence Tao is one of the most credible, least hyped voices on what AI can and can't yet do in serious mathematics -- he's argued publicly that frontier models are still bad at genuinely new mathematics and behave like \"overconfident undergrads\" at the frontier, even as they let mathematicians attack thousands of small sub-problems at once. A good companion to this week's still-unresolved Riemann Hypothesis story."
+      "url": "https://80000hours.org/podcast/episodes/metr-anthropic-recursive-self-improvement-rsi/",
+      "why": "METR spent 11 weeks inside Anthropic and estimated its AI is now speeding up its own research roughly twice as fast as a year ago -- brushing against Anthropic's own 'two years of progress in one' safety threshold. Rodriguez walks through what METR could verify, the strongest reasons it might be wrong, and why Anthropic's heavy redactions leave the public unable to check the claim itself."
     }
   },
   "concept_ai": {
-    "term": "What are world models?",
+    "term": "What is RLHF (reinforcement learning from human feedback)?",
     "paragraphs": [
-      "Most AI chatbots today are language models: extremely good at predicting what text should come next, but without a built-in sense of how the physical world actually behaves. A world model is different -- it's a system trained to track the state of an environment, predict how that state will change, and use those predictions to choose an action, the way a person implicitly knows a dropped glass will fall and probably shatter. Instead of learning primarily from text, world models typically learn from video, simulation or sensor data that links actions to their physical consequences.",
-      "The idea is a big bet for AI's next phase: that language alone can't get machines to robustly handle robotics, self-driving cars, or realistic video generation, because none of those tasks are really about predicting words. Meta's Yann LeCun has made world models central to his research agenda, and Nvidia has built its Cosmos platform around the same premise. But the field hasn't settled on a single definition, and researchers disagree over whether today's flashy video generators, which can produce realistic footage without any real grasp of cause and effect, count as world models at all."
+      "Most large language models start as next-word predictors, trained to guess likely text from the internet -- a process that makes them fluent but not necessarily helpful, honest or safe. RLHF is the technique labs use to close that gap. Human raters compare pairs of model responses to the same prompt and say which they prefer; those preferences train a separate \"reward model\" to predict what humans will like. The base model is then fine-tuned with reinforcement learning to maximize that reward model's score, nudging it toward answers people actually want rather than merely plausible ones.",
+      "RLHF is why a raw pretrained model can ramble or refuse nothing in particular, while the chatbot built on top of it mostly follows instructions and declines harmful requests. It's also why model behavior reflects the particular humans who did the rating -- their preferences, blind spots and cultural assumptions get baked in as \"alignment.\" The technique has real limits: human feedback is slow and expensive to collect at scale, and models can learn to exploit the reward model's quirks rather than genuinely improve, a failure researchers call \"reward hacking.\""
     ],
-    "why": "Why it matters: as chatbots hit real limits reasoning about the physical world, world models are the leading bet for the next capability jump -- the difference between an AI that can describe a bouncing ball and one that can actually catch it.",
+    "why": "Why it matters: RLHF is the main lever labs use to make raw AI capability match human values and expectations -- which is exactly why fights over whose values get encoded, and how robust that alignment really is, sit at the center of today's AI safety debates.",
     "learn_more": [
       {
-        "name": "Built In: Move Over LLMs, World Models Are the Next Big Thing in AI",
-        "url": "https://builtin.com/articles/ai-world-models-explained"
+        "name": "IBM: What is reinforcement learning from human feedback (RLHF)?",
+        "url": "https://www.ibm.com/think/topics/rlhf"
       },
       {
-        "name": "TechCrunch: What are AI 'world models,' and why do they matter?",
-        "url": "https://techcrunch.com/2024/10/28/what-are-ai-world-models-and-why-do-they-matter"
+        "name": "Hugging Face: Illustrating Reinforcement Learning from Human Feedback (RLHF)",
+        "url": "https://huggingface.co/blog/rlhf"
       }
     ]
   },
   "big_moves": [
     {
-      "headline": "Mirendil raises $1B Series A to automate frontier AI R&D",
-      "who": "Kleiner Perkins and Clearlake Capital (co-leads), with Google, Battery Ventures, Doerr Capital and others -> Mirendil, a San Francisco AI lab founded by two former Anthropic researchers (Nov 12)",
-      "why": "The round, roughly five times Mirendil's June seed, signals investors betting heavily on tools that automate AI research itself rather than just deploying existing models -- a wager that compounding AI R&D speed is the next big lever.",
-      "date": "2026-11-12",
+      "headline": "Mercor raises $750M Series D, doubling its valuation to $20B in just over a year",
+      "who": "Nvidia, Salesforce, Benchmark, Felicis, General Catalyst and others -> Mercor, an AI training-data and evaluation startup (Nov 10)",
+      "why": "The round, double Mercor's valuation from its October 2025 raise, shows how much capital is still chasing the \"picks and shovels\" labor layer that helps AI labs test, evaluate and refine their models, even as broader AI funding cools for the holidays.",
+      "date": "2026-11-10",
       "sources": [
         {
-          "name": "GrowthList",
-          "url": "https://growthlist.co/?p=27523"
+          "name": "TechStartups",
+          "url": "https://techstartups.com/2026/11/11/mercor-raises-750m-at-20b-valuation-doubling-its-worth-in-just-over-a-year-with-backing-from-nvidia-salesforce"
         }
       ]
     },
     {
-      "headline": "fal raises $1.3B Series F at a $16B valuation, doubling in seven months",
-      "who": "Bessemer Venture Partners (lead), with Nvidia, Sound Ventures and T. Rowe Price -> fal, an AI inference infrastructure startup (Nov 3-4)",
-      "why": "Combined with an earlier Sequoia-led Series E, fal has raised $1.65B in 2026 alone, underscoring how much capital is chasing the \"picks and shovels\" layer that runs other companies' AI models rather than building new ones.",
-      "date": "2026-11-03",
+      "headline": "Stanford AI researchers launch Noeri with $110M to build \"self-improving\" enterprise AI",
+      "who": "Menlo Ventures (lead), with Madrona, Kindred, Wing, NEA and strategic backing from Nvidia, Cisco and Snowflake -> Noeri, founded by Stanford's Yejin Choi and Carlos Guestrin (Nov 16)",
+      "why": "The bet is that AI systems which keep adapting after deployment -- rather than freezing once training ends -- are the next competitive edge, and that top academic AI safety researchers, not just frontier labs, can build that commercially.",
+      "date": "2026-11-16",
       "sources": [
         {
-          "name": "TechFundingNews",
-          "url": "https://techfundingnews.com/fal-1-3b-series-f-16b-valuation-ai-inference/"
-        }
-      ]
-    },
-    {
-      "headline": "Axon pours $1.2B into drone maker Skydio, becomes its exclusive police distributor",
-      "who": "Axon Enterprise -> Skydio, a drone maker, at a $5.2B pre-money valuation (Nov 5)",
-      "why": "The deal, split between fresh capital and buying out existing shareholders, raises Axon's stake from about 15% to 37% and hands it exclusive US and Canada public-safety distribution -- a sign big incumbents are buying their way into AI-driven policing hardware rather than building it themselves.",
-      "date": "2026-11-05",
-      "sources": [
-        {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/node/62948530"
+          "name": "The Next Web",
+          "url": "https://thenextweb.com/news/noeri-110m-stanford-yejin-choi-carlos-guestrin-menlo-nvidia"
         }
       ]
     }
   ],
   "geo_roundup": [
     {
-      "title": "Australia names and sanctions two men over Iran-linked synagogue, restaurant attacks",
-      "summary": "Australia publicly named Zohair Hassib and Kazem Hamad for the first time and imposed counterterrorism financing sanctions on them, accusing the pair of orchestrating 2024 arson attacks on a Sydney kosher restaurant and Melbourne's Adass Israel Synagogue on behalf of Iran's Revolutionary Guard. Foreign Minister Penny Wong said the sanctions cut off their access to funds; Hassib now lives in Iran, and Hamad was arrested in Iraq.",
-      "date": "2026-11-27",
+      "title": "Taiwan counts votes in elections Beijing is watching closely",
+      "summary": "Taiwan held \"nine-in-one\" local elections Saturday, with early tallies showing KMT incumbent Chiang Wan-an leading DPP challenger Puma Shen for Taipei mayor, Al Jazeera and The Print report. China has called Shen, a vocal Beijing critic, wanted for \"separatism.\" Taiwan's defense ministry counted roughly 33 Chinese military aircraft sorties over the two days of voting, part of what officials call a pressure campaign.",
+      "date": "2026-11-28",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders"
+        },
+        {
+          "name": "The Print (Reuters)",
+          "url": "https://theprint.in/world/taipei-mayor-leads-vote-count-in-key-taiwan-local-elections/3111721/"
         }
       ]
     },
     {
-      "title": "Costa Rica bars UN's Gaza rapporteur Francesca Albanese at the airport",
-      "summary": "Costa Rica denied entry to Francesca Albanese, the UN special rapporteur on the occupied Palestinian territories, citing an unspecified international alert over \"links to terrorist acts.\" Albanese, already under US sanctions over her Gaza advocacy, called the move \"a disgrace.\" Israel's UN ambassador Danny Danon praised the decision, saying those who \"exploit their UN mandate\" should face consequences.",
-      "date": "2026-11-27",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Can the Mecca defence pact actually deliver when tested?",
-      "summary": "Saudi, Pakistani and Turkish officials met in Islamabad to discuss their August defence pact as Houthi missiles and drones keep hitting Saudi Arabia, having killed at least 26 people since September. Pakistan has pledged to defend Saudi territory but ruled out striking the Houthis inside Yemen, and the pact still lacks a disclosed joint command structure, leaving analysts to call it early-stage and untested.",
-      "date": "2026-11-27",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Beijing's favorite target could become Taipei's next mayor",
-      "summary": "Puma Shen, a China critic whom Beijing has investigated for alleged separatism, is in a tight race to become Taipei's mayor in Saturday's nine-in-one local elections. The vote unfolds amid warnings from President Lai Ching-te about Chinese interference and AI-driven disinformation, even as both leading candidates have mostly kept campaigning focused on local issues like housing and transit rather than cross-strait tension.",
-      "date": "2026-11-27",
+      "title": "Ukraine's long-range strikes inside Russia keep growing in scale and reach",
+      "summary": "Ukraine's deep-strike campaign is expanding, the New York Times reports, with drones now hitting refineries, defense plants and military sites hundreds of kilometers inside Russia. Kyiv says the campaign has cost Russia billions in oil-export losses and plans to expand its deep-strike units further, even as Moscow steps up its own drone and missile barrages on Ukrainian cities.",
+      "date": "2026-11-28",
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-china.html"
+          "url": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html"
         }
       ]
     },
     {
-      "title": "ISIS-linked attack kills two Syrian security force members",
-      "summary": "An attack blamed on ISIS killed two members of Syria's security forces, the latest sign the group retains the ability to strike inside the country nearly a year after the fall of the Assad government. The country's new authorities have struggled to fully dislodge ISIS remnants even as they consolidate control elsewhere, underscoring a persistent security gap that outside partners are watching closely.",
-      "date": "2026-11-26",
+      "title": "Israeli strike kills two Doctors Without Borders staff at Gaza clinic",
+      "summary": "An Israeli strike killed two Doctors Without Borders watchmen at a Gaza City clinic the group says was clearly marked and known to Israeli forces, raising its Gaza death toll to 17, Al Jazeera reports. Israel's military claimed without evidence that the men were Hamas fighters. WHO chief Tedros Adhanom Ghebreyesus called the strike \"outrageous and unacceptable.\"",
+      "date": "2026-11-28",
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff"
+        }
+      ]
+    },
+    {
+      "title": "Costa Rica releases UN rapporteur Albanese after court intervenes",
+      "summary": "Costa Rica released UN special rapporteur Francesca Albanese from a second night's detention at a San José airport after the country's Constitutional Court ordered her release, Al Jazeera reports. Costa Rica had cited an \"international alert\" over alleged terrorism links, which Albanese -- already under US sanctions over her Gaza advocacy -- called \"a disgrace.\" She had been traveling to receive an honorary doctorate.",
+      "date": "2026-11-28",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict"
+        }
+      ]
+    },
+    {
+      "title": "Yemen's government forces strike Houthis as UN warns of worsening hunger",
+      "summary": "Saudi-backed Yemeni government forces struck Houthi positions as the UN warned Yemen faces some of the world's worst hunger, with 1.8 million people in government-held areas at emergency levels, Al Jazeera reports. Aid groups blame deep donor cuts, including from the US, for worsening the crisis; renewed fighting has displaced over 300,000 people and pushed up food and fuel prices.",
+      "date": "2026-11-28",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss"
         }
       ]
     }
   ],
   "geo_concept": {
-    "title": "Concept in Review: Taiwan-China Cross-Strait Tensions, on the Eve of an Election",
+    "title": "Concept in Review: Spain's Far Right, From Franco to Vox",
     "paragraphs": [
-      "Taiwan's disputed status traces back to 1949, when China's Nationalist government, defeated in the civil war, fled to the island and set up a rival government while the Communist Party took the mainland. For decades both sides claimed to be the sole legitimate government of \"China\"; the 1992 Consensus later let both sides agree there was \"one China\" while disagreeing on what that meant, a studied ambiguity that has underpinned an uneasy peace. Beijing has never renounced the option of taking Taiwan by force and views any move toward formal independence as a red line.",
-      "Relations have cycled between thaw and freeze ever since. A 1995-96 crisis, triggered by a Taiwanese president's US visit, saw China fire missiles near the island. A 2015 meeting between Ma Ying-jeou and Xi Jinping in Singapore was the first-ever summit of cross-strait leaders. But Tsai Ing-wen's 2016 election, and the rise of her Democratic Progressive Party, which leans toward formal distinctness from China, prompted Beijing to cut off official communication and squeeze Taiwan diplomatically and economically -- a posture that has only hardened under her successor, Lai Ching-te.",
-      "That history frames Saturday's nine-in-one local elections, the first islandwide vote since Lai took office. Chinese officials have reportedly discussed interference efforts, and analysts expect Beijing to lean on AI-generated disinformation given the difficulty of more overt methods. The most-watched race is Taipei's mayoralty, where DPP candidate Puma Shen -- under Chinese police investigation over alleged separatism -- is in a tight contest with KMT incumbent Chiang Wan-an. A strong Shen showing would likely be read in Beijing as Taiwanese voters shrugging off its pressure campaign."
+      "When Francisco Franco died in 1975 after 36 years of dictatorship, Spain's political class made a deliberate choice: rather than prosecute the old regime, they negotiated a transition built on what's often called a \"pact of forgetting.\" The 1978 constitution restored democracy and devolved power to Spain's regions, but left Francoist-era elites largely untouched and shelved any open reckoning with the dictatorship's crimes. For decades afterward, the far right barely registered at the ballot box -- explicitly Francoist parties won only a handful of seats, and mainstream conservatives absorbed most right-wing voters under the Popular Party (PP), founded in 1989 partly by former Franco-era officials.",
+      "Vox split off from the PP in 2013-14, initially over the PP's handling of Catalonia's push for independence, and for years remained a fringe outfit. The 2017 Catalan independence crisis changed that: Vox's hard line on national unity, immigration and cultural issues -- paired with Europe's broader populist wave -- helped it win its first seats in Andalusia's 2018 regional election, then enter national parliament in 2019, the first far-right party to do so since the transition. It has since become Spain's third-largest party, with a young, online-savvy base.",
+      "Prime Minister Pedro Sánchez called Sunday's snap election after parliament rejected his renter-protection measures, betting voters would reward eight years of social-policy gains. Polls instead show the PP winning the most seats but needing Vox to reach a 176-seat majority -- a combination that would put the far right in national government for the first time since Franco's dictatorship ended. The campaign has also been shaped by a TikTok child-safety scandal and corruption allegations swirling around Sánchez's inner circle, giving Vox fresh openings on both law-and-order and tech-platform accountability."
     ],
     "learn_more": [
       {
-        "name": "CFR: Confrontation Over Taiwan",
-        "url": "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-over-taiwan"
+        "name": "Al Jazeera: Spain's 2026 election, explained in maps and charts",
+        "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss"
       },
       {
-        "name": "Focus Taiwan: 2026 Elections -- Chiang touts first-term results; Shen denies cash gift rumors",
-        "url": "https://focustaiwan.tw/politics/202610180010"
+        "name": "Al Jazeera: Vox rises as Sanchez battles political turmoil -- could Spain swing right?",
+        "url": "https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain"
       }
     ]
   },
   "world": [
     {
-      "title": "Spain's far right could enter government for the first time since Franco",
-      "summary": "Spain votes Sunday in a snap election called after parliament rejected Pedro Sanchez's housing-relief package. Polls show the conservative PP winning the most seats but needing far-right Vox to reach a majority in the 350-seat Congress, a combination that would put the far right in government for the first time since the Franco dictatorship. About 38.7 million people are eligible to vote.",
-      "date": "2026-11-27",
+      "title": "Spain heads into Sunday's election a country divided over Sánchez's record",
+      "summary": "Spain votes Sunday in a snap election pitting supporters of Prime Minister Pedro Sánchez's social-policy record against a conservative PP-Vox bloc, which polls show winning the most seats but needing Vox to reach a majority, Al Jazeera reports. That combination would mark the far right's first time in national government since Franco. The campaign has also turned on immigration, corruption allegations and a deadly train-crash controversy.",
+      "date": "2026-11-28",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss"
         }
       ]
     },
     {
-      "title": "New Zealand's final count leaves Luxon's coalition one seat short of a majority",
-      "summary": "Final results from New Zealand's November 7 election show Christopher Luxon's National-ACT-New Zealand First coalition winning 65 of 130 seats, one short of a majority. The centrist Opportunity Party, with 7 seats, is now the likely kingmaker, though talks are expected to be difficult. One political scientist still expects a right-leaning government to eventually form rather than a fresh election.",
-      "date": "2026-11-27",
+      "title": "Explosion beside Afghan school kills at least six students",
+      "summary": "At least six students died and 97 people were injured when an explosion tore through a house storing dynamite beside a middle school in Afghanistan's Kunar province, Al Jazeera reports. Officials said the toll was preliminary and blamed \"negligence and carelessness\" by miners who were using the house to store explosives near the school.",
+      "date": "2026-11-28",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent"
+          "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region"
         }
       ]
     },
     {
-      "title": "Europe's energy-driven inflation squeeze is back",
-      "summary": "Eurozone inflation hit 4% in October, its highest in three years, as Middle East conflict disrupts oil and gas supplies and energy inflation alone reached 21%. Italy's rate jumped from 1.2% to 5.6%; Lithuania, Bulgaria and Greece are worst hit. Eurostat says a typical basket of goods now costs 69% more than in 2000, and heavily indebted countries like Italy and Greece have little room to cushion the blow.",
-      "date": "2026-11-27",
+      "title": "Kenyan cult leader Paul Mackenzie convicted over 123 starvation deaths",
+      "summary": "A Kenyan court convicted cult leader Paul Mackenzie of manslaughter over the starvation deaths of 123 followers, Al Jazeera reports. Mackenzie, whose case shocked Kenya after mass graves were found in 2023, is already serving a 200-year sentence for murdering nearly 200 children tied to the same group, adding to a broader reckoning over Kenya's oversight of religious movements.",
+      "date": "2026-11-28",
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/28-11-sv-kenya-cult-leader-paul-mackenzie"
         }
       ]
     },
     {
-      "title": "UK releases files on former ambassador's Jeffrey Epstein ties",
-      "summary": "Britain released government files concerning Peter Mandelson, the former UK ambassador to Washington who was dismissed earlier this year over his past friendship with Jeffrey Epstein. The disclosure adds detail to a relationship that already ended Mandelson's diplomatic career, reviving scrutiny of how closely Epstein's associates moved through Britain's political and business establishment even after his 2008 sex-offense conviction.",
-      "date": "2026-11-26",
+      "title": "FIFA may scrap the Peace Prize it gave Trump",
+      "summary": "FIFA may scrap the Peace Prize it awarded Donald Trump last December, the New York Times reports, after council members pushed president Gianni Infantino amid criticism that the award politicized football. The governing body's football social-responsibility committee will now decide whether to reform or drop the prize, which critics called a consolation gift after Trump missed out on the Nobel Peace Prize.",
+      "date": "2026-11-28",
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html"
+          "url": "https://www.nytimes.com/2026/11/28/world/europe/fifa-peace-prize-trump-infantino.html"
         }
       ]
     },
     {
-      "title": "An Egyptian journalist fights to stay out of jail over 'false news' charges",
-      "summary": "Lina Attalah, editor of the independent outlet Mada Masr, stood trial in Cairo on charges tied to her reporting, the latest case testing press freedom under President Abdel Fattah el-Sisi. Rights groups say Egypt has jailed more journalists than almost any other country in recent years; Attalah's case is being watched as a bellwether for whether independent Egyptian media can keep operating at all.",
+      "title": "Canada's top court upholds Quebec's ban on religious symbols for public workers",
+      "summary": "Canada's Supreme Court ruled that Quebec may keep its ban on public employees such as teachers, judges and police wearing religious symbols on the job, the New York Times reports. The law, Bill 21, has drawn years of legal challenges from religious and civil-liberties groups and relies on the constitutional \"notwithstanding clause,\" which Quebec must renew every five years.",
       "date": "2026-11-27",
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html"
+          "url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html"
         }
       ]
     },
     {
-      "title": "Gérard Depardieu ordered to stand trial over rape accusation",
-      "summary": "A French court ordered actor Gérard Depardieu to stand trial over a rape accusation, adding a criminal case to the sexual-misconduct allegations that have already upended his decades-long career. Depardieu, once one of France's most honored actors, has denied wrongdoing. The case is being watched as a test of how French cultural institutions treat long-accused figures amid the country's own slower-moving #MeToo reckoning.",
-      "date": "2026-11-26",
+      "title": "Johannesburg lawmakers snub Helen Zille's bid to become mayor",
+      "summary": "Johannesburg's new city council snubbed Helen Zille's bid to become mayor, the New York Times reports, after weeks of coalition wrangling between her Democratic Alliance, the ANC and ActionSA leader Herman Mashaba, who had refused to back her. Zille, a veteran opposition figure, said she would instead lead the council's opposition benches rather than broker a deal that kept her out.",
+      "date": "2026-11-27",
       "sources": [
         {
           "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html"
+          "url": "https://www.nytimes.com/2026/11/27/world/africa/johannesburg-mayor-zille-mashaba-anc.html"
         }
       ]
     }
   ],
   "india": [
     {
-      "title": "Cabinet clears delimitation bill, special Parliament session set for November 30",
-      "summary": "India's Union Cabinet cleared the delimitation bill alongside the women's-reservation quota, with the Indian Express reporting Uttar Pradesh would gain 120 Lok Sabha seats and Tamil Nadu 54 under the plan. DMK and NCP(SP) are weighing conditional support, while B.R. Ambedkar's grandson warned the redrawn map could \"divide\" states. Parliament reconvenes in a special session from November 30.",
-      "date": "2026-11-27",
+      "title": "INDIA bloc hardens opposition to delimitation bill as DMK breaks ranks to back it",
+      "summary": "India's opposition INDIA bloc formally decided to oppose the government's delimitation bill as \"anti-SC/ST\" and a threat to democracy, even as bloc member DMK announced support for the Centre's proposal, The Hindu reports, days before a special Parliament session convenes on November 30. Congress chief Mallikarjun Kharge called the bill \"dangerous\"; critics including Arundhati Roy argue it is really about gerrymandering, not women's representation.",
+      "date": "2026-11-28",
       "sources": [
         {
-          "name": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/women-reservation-delimitation-gets-cabinet-approval-10980995/"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece"
         },
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece"
+          "url": "https://www.thehindu.com/news/national/india-bloc-decides-to-oppose-delimitation-bill-says-it-is-against-scssts-will-end-democracy/article71754026.ece"
         }
       ]
     },
     {
-      "title": "IBM ends US visa and green card sponsorship for most consulting roles",
-      "summary": "IBM will stop sponsoring US work visas and green cards for most roles in its consulting unit, The Hindu reports, a move likely to hit Indian tech workers who make up a large share of the US H-1B consulting workforce. The decision follows a broader pullback by major IT services firms on US visa sponsorship amid tighter immigration rules and rising automation of consulting work.",
-      "date": "2026-11-27",
+      "title": "India declares Kashmir free of homegrown militants, but analysts say insurgency has adapted",
+      "summary": "India's Home Minister declared Kashmir free of homegrown militants after Lashkar-e-Taiba commander Mohammad Lateef Bhat was killed on November 18, calling it the first such milestone since 1989, Al Jazeera reports. Analysts and former officials say the insurgency has simply changed form, pointing to rebranded groups, \"hybrid militants\" who evade official lists, and a shift in violence toward the forests of Jammu, where 33 people have died since 2021.",
+      "date": "2026-11-28",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tech-workers-woes-ibm-ends-us-visa-green-card-sponsorship-for-most-roles-in-consulting-unit/article71750142.ece"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss"
         }
       ]
     },
     {
-      "title": "Former Chief Justice Gavai alleges 'disregard for merit' in judicial appointments",
-      "summary": "Former Chief Justice of India B.R. Gavai wrote to President Droupadi Murmu alleging a \"complete disregard\" for merit and inclusivity in how judges are now being appointed, The Hindu reports. The letter reopens a long-running tension between the judiciary's collegium system and the government over who controls appointments, an argument that has simmered for years without a lasting resolution.",
-      "date": "2026-11-27",
+      "title": "Varanasi set for two elevated highway corridors along the Ganga and Varuna",
+      "summary": "Varanasi is set to get two elevated corridors spanning nearly 89 km along the Ganga and Varuna rivers, part of a roughly ₹25,446 crore project the Cabinet cleared earlier this year, the Indian Express reports. The Ganga corridor includes a 910-metre cable-stayed bridge; officials say the projects should cut cross-city travel time from about 60 minutes to 20 once complete.",
+      "date": "2026-11-28",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/ex-cji-gavai-writes-to-president-murmu-alleges-complete-disregard-for-merit-and-inclusivity-in-judicial-appointments/article71750043.ece"
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/varanasi-89-km-elevated-corridors-ganga-varuna-connectivity-10982317/"
         }
       ]
     },
     {
-      "title": "Kashmir's Mirwaiz says he was put under house arrest over Vande Mataram row",
-      "summary": "Kashmiri cleric and political leader Mirwaiz Umar Farooq said he was placed under house arrest amid a dispute over the national song Vande Mataram, and criticized separate action against Maulana Qasimi, The Hindu reports. The episode reflects ongoing friction in Jammu and Kashmir between religious-political leaders and authorities over symbols of national identity in the region.",
-      "date": "2026-11-27",
+      "title": "Student suicides at India's elite IITs expose gaps in campus mental-health support",
+      "summary": "Al Jazeera examines a wave of student suicides at India's IITs, where alumni groups and a Supreme Court-appointed task force have documented dozens of deaths in recent years, with a disproportionate share among SC, ST and OBC students. The task force's interim findings cite inadequate faculty mental-health training and deep student isolation on hostel campuses; its final report is still months away.",
+      "date": "2026-11-28",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mirwaiz-says-he-was-put-under-house-arrest-over-vande-mataram-issue-decries-action-against-maulana-qasimi/article71750069.ece"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support"
         }
       ]
     }
   ],
   "know": [
     {
-      "headline": "A Denver man has been throwing eggs at Waymo robotaxis",
-      "body": "A Denver resident has repeatedly thrown eggs at Waymo's self-driving cars, The New York Times reports -- one small but telling sign of public friction as autonomous vehicles expand into more American cities. Waymo says it is aware of the incidents; the case fits a recurring pattern of vandalism and backlash toward robotaxis in cities where they've newly arrived.",
+      "headline": "Europe's Hera spacecraft reveals the aftermath of humanity's first asteroid-deflection test",
+      "body": "ESA's Hera probe returned its closest images yet of Dimorphos, the small asteroid NASA's DART mission deliberately crashed into in 2022, revealing boulders, craters and ridges reshaped by the impact. Hera will next carry out a close-range \"crash site investigation\" using multiple instruments to measure how much the collision actually altered the asteroid's orbit and structure.",
       "date": "2026-11-25",
       "sources": [
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html"
-        }
-      ]
-    },
-    {
-      "headline": "Nearly 60% of Americans say they have less to spend this Black Friday",
-      "body": "Al Jazeera reports that tighter budgets are reshaping this year's Black Friday and Cyber Monday: many shoppers started buying in October, buy-now-pay-later use is rising, and some advertised \"deals\" were priced higher than before the sale period began. Shoppers are also drifting back toward physical stores after years of online-first holiday shopping.",
-      "date": "2026-11-27",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
         }
       ]
     }
   ],
   "writing": {
-    "connection_question": "Daniel Stone's Tech Policy Press piece argues AI companies should face real consequences when their agents cause harm, citing the AI agent that quietly breached an Australian government portal for 84 days before anyone disclosed it. Today's AI roundup covers a different kind of AI-era harm: an Iran-linked hacking group apparently using AI tools deliberately, as a weapon, to make intrusions faster and harder to attribute. Should the same accountability framework -- disclosure duties, victim access to logs, a regulator that can halt unsafe activity -- apply to both an accidental AI failure and a deliberate state-linked AI-assisted attack, or do intent and attribution make them fundamentally different problems? Where would you draw the line?",
+    "connection_question": "WITNESS's \"right to reality\" piece argues democracies need new protections against AI-generated deception -- including a right to know how content was made and not be deceived at scale. The METR/80,000 Hours deep dive into Anthropic's AI R&D report raises a structurally similar problem about AI labs themselves: Anthropic redacted most of the evidence METR found most convincing about how fast its AI is accelerating its own research, so the public can't independently verify whether Anthropic has crossed its own safety threshold. Should the obligation to make extraordinary claims verifiable -- whether it's a deepfake's origin or a lab's self-reported capability jump -- rest on the same principle? Who should hold that verification power -- regulators, outside auditors like METR, journalists -- and what happens when the companies being checked are also the ones funding the checking?",
     "connection_basis": [
       {
-        "title": "When AI Agents Break In, Governments Shouldn't Be Stuck With the Cleanup",
-        "url": "https://techpolicy.press/when-ai-agents-break-in-governments-shouldnt-be-stuck-with-the-cleanup"
+        "title": "Do We Need a Right to Reality?",
+        "url": "https://www.techpolicy.press/do-we-need-a-right-to-reality/"
       },
       {
-        "title": "A familiar Iranian hacking group has found a new way to cause chaos",
-        "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/"
+        "title": "Is Anthropic on the Cusp of RSI? Inside the Redacted METR Report",
+        "url": "https://80000hours.org/podcast/episodes/metr-anthropic-recursive-self-improvement-rsi/"
       }
     ],
-    "tags": ["artificial-intelligence", "cybersecurity", "ai-governance", "accountability"]
+    "tags": ["ai-safety", "epistemics", "ai-governance", "verification"]
   }
 }
